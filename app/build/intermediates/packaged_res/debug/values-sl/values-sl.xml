@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="NNNtracksdeleted">
+		<item quantity="one"><ns1:g example="1" id="songs_to_delete">%d</ns1:g> skladba je bila izbrisana.</item>
+		<item quantity="two"><ns1:g id="songs_to_delete">%d</ns1:g> skladbi sta bili izbrisani.</item>
+		<item quantity="few"><ns1:g id="songs_to_delete">%d</ns1:g> skladbe so bile izbrisane.</item>
+		<item quantity="other"><ns1:g id="songs_to_delete">%d</ns1:g> skladb je bilo izbrisanih.</item>
+	</plurals>
+    <plurals name="NNNtracksfromplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> skladba odstranjena s seznama predvajanja.</item>
+		<item quantity="two"><ns1:g example="27" id="number">%d</ns1:g> skladbi odstranjeni s seznama predvajanja.</item>
+		<item quantity="few"><ns1:g example="27" id="number">%d</ns1:g> skladbe odstranjene s seznama predvajanja.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> skladb odstranjenih s seznama predvajanja.</item>
+	</plurals>
+    <plurals name="NNNtrackstoplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> skladba dodana na seznam predvajanja.</item>
+		<item quantity="two"><ns1:g example="27" id="number">%d</ns1:g> skladbi dodani na seznam predvajanja.</item>
+		<item quantity="few"><ns1:g example="27" id="number">%d</ns1:g> skladbe dodane na seznam predvajanja.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> skladb dodanih na seznam predvajanja.</item>
+	</plurals>
+    <plurals name="NNNtrackstoqueue">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> skladba dodana v čakalno vrsto.</item>
+		<item quantity="two"><ns1:g example="1" id="number">%d</ns1:g> skladbi dodani v čakalno vrsto.</item>
+		<item quantity="few"><ns1:g example="1" id="number">%d</ns1:g> skladbe dodane v čakalno vrsto.</item>
+		<item quantity="other"><ns1:g example="1" id="number">%d</ns1:g> skladb dodanih v čakalno vrsto.</item>
+	</plurals>
+    <plurals name="Nalbums">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> album</item>
+		<item quantity="two"><ns1:g id="count">%d</ns1:g> albuma</item>
+		<item quantity="few"><ns1:g id="count">%d</ns1:g> albumi</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> albumov</item>
+	</plurals>
+    <plurals name="Nsongs">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> skladba</item>
+		<item quantity="two"><ns1:g id="count">%d</ns1:g> skladbi</item>
+		<item quantity="few"><ns1:g id="count">%d</ns1:g> skladbe</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> skladb</item>
+	</plurals>
+    <string name="accessibility_next">Naslednja</string>
+    <string name="accessibility_pause">Premor</string>
+    <string name="accessibility_play">Predvajaj</string>
+    <string name="accessibility_prev">Prejšnja</string>
+    <string name="accessibility_repeat">Ponovi</string>
+    <string name="accessibility_repeat_all">Ponovi vse</string>
+    <string name="accessibility_repeat_one">Ponovi eno</string>
+    <string name="accessibility_shuffle">Premešaj</string>
+    <string name="accessibility_shuffle_all">Premešaj vse</string>
+    <string name="add_to_favorites">Dodaj med priljubljene</string>
+    <string name="add_to_playlist">Dodaj na seznam predvajanja</string>
+    <string name="add_to_queue">Dodaj v čakalno vrsto</string>
+    <string name="app_widget_large_alt">Apollo: 4×2 (nadomestno)</string>
+    <string name="app_widget_recent">Apollo: nedavno poslušano</string>
+    <string name="cancel">Prekliči</string>
+    <string name="cannot_be_undone">Tega ni mogoče razveljaviti</string>
+    <string name="color_picker_title">Barvna shema</string>
+    <string name="context_menu_delete">Izbriši</string>
+    <string name="context_menu_fetch_album_art">Pridobi naslovnico</string>
+    <string name="context_menu_fetch_artist_image">Pridobi sliko izvajalca</string>
+    <string name="context_menu_more_by_artist">Več od izvajalca</string>
+    <string name="context_menu_play_next">Predvajaj naslednjo</string>
+    <string name="context_menu_play_selection">Predvajaj</string>
+    <string name="context_menu_remove_from_playlist">Odstrani s seznama predvajanja</string>
+    <string name="context_menu_remove_from_recent">Odstrani iz nedavnih</string>
+    <string name="context_menu_rename_playlist">Preimenuj</string>
+    <string name="context_menu_use_as_ringtone">Uporabi kot melodijo zvonjenja</string>
+    <string name="could_not_be_pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> ni bilo mogoče pripeti na domači zaslon</string>
+    <string name="create_playlist_prompt">Ime seznama predvajanja</string>
+    <string name="current_color">Trenutna</string>
+    <string name="delete_dialog_title">Izbriši <ns1:g example="album" id="item">%s</ns1:g>?</string>
+    <string name="delete_warning">To bo trajno izbrisalo vnose predpomnjenih slik</string>
+    <string name="empty_music">Za kopiranje glasbe iz vašega računalnika na vašo napravo uporabite kabel USB.</string>
+    <string name="empty_search">Rezultatov iskanja ni bilo najdenih</string>
+    <string name="google_search">Iskanje Google</string>
+    <string name="menu_add_to_homescreen">Pripni na domači zaslon</string>
+    <string name="menu_clear_queue">Počisti čakalno vrsto</string>
+    <string name="menu_detailed">Podrobno</string>
+    <string name="menu_equalizer">Izenačevalnik</string>
+    <string name="menu_grid">Mreža</string>
+    <string name="menu_play_all">Predvajaj vse</string>
+    <string name="menu_save_queue">Shrani čakalno vrsto</string>
+    <string name="menu_search">Iskanje</string>
+    <string name="menu_settings">Nastavitve</string>
+    <string name="menu_share">Deli</string>
+    <string name="menu_shuffle">Premešaj vse</string>
+    <string name="menu_simple">Enostavna</string>
+    <string name="menu_sort_by">Razvrsti po</string>
+    <string name="menu_view_as">Pokaži kot</string>
+    <string name="new_color">Nova</string>
+    <string name="new_photo">Izberite fotografijo iz galerije</string>
+    <string name="new_playlist">Nov seznam predvajanja</string>
+    <string name="new_playlist_name_template">Seznam predvajanja <ns1:g id="number">%d</ns1:g></string>
+    <string name="no_effects_for_you">Izenačevalnika ni mogoče odpreti.</string>
+    <string name="old_photo">Uporabi staro fotografijo</string>
+    <string name="overwrite">Prepiši</string>
+    <string name="page_albums">Albumi</string>
+    <string name="page_artists">Izvajalci</string>
+    <string name="page_genres">Zvrsti</string>
+    <string name="page_playlists">Seznami predvajanja</string>
+    <string name="page_recent">Nedavno</string>
+    <string name="page_songs">Skladbe</string>
+    <string name="pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> pripeto na domači zaslon</string>
+    <string name="playlist_favorite">Priljubljeni</string>
+    <string name="playlist_favorites">Priljubljene</string>
+    <string name="playlist_last_added">Nazadnje dodano</string>
+    <string name="remove_from_favorites">Odstrani iz priljubljenih</string>
+    <string name="remove_from_queue">Odstrani iz čakalne vrste</string>
+    <string name="save">Shrani</string>
+    <string name="set_as_ringtone"><ns1:g example="Alarm Bell" id="name">%s</ns1:g> nastavljena kot melodija zvonjenja</string>
+    <string name="settings_about_apollo">O Apollu</string>
+    <string name="settings_author_title">Avtor</string>
+    <string name="settings_color_scheme_summary">Spremeni barvo poudarka v Apollu</string>
+    <string name="settings_color_scheme_title">Izberi Apollovo privzeto barvno shemo</string>
+    <string name="settings_data_category">Podatki</string>
+    <string name="settings_delete_cache_summary">Odstrani vse predpomnjene slike</string>
+    <string name="settings_delete_cache_title">Izbriši predpomnilnik</string>
+    <string name="settings_download_artist_images_title">Prenesi manjkajoče slike izvajalcev</string>
+    <string name="settings_download_missing_artwork_title">Prenesi manjkajoče naslovnice</string>
+    <string name="settings_download_only_on_wifi_summary">Za zmanjšanje stroškov ne prenašajte preko mobilnih omrežij</string>
+    <string name="settings_download_only_on_wifi_title">Prenesi samo preko omrežja Wi-Fi</string>
+    <string name="settings_lopez_summary">Oblika znaka trgovine Play in ikone</string>
+    <string name="settings_open_source_licenses">Odprtokodne licence</string>
+    <string name="settings_special_thanks">Posebna zahvala</string>
+    <string name="settings_storage_category">Pomnilniška naprava</string>
+    <string name="settings_theme_chooser_title">Izbirnik tem</string>
+    <string name="settings_ui_category">Vmesnik</string>
+    <string name="settings_version_title">Številka različice</string>
+    <string name="share_track_using">Deli skladbo z uporabo:</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_artist">Izvajalec</string>
+    <string name="sort_order_entry_az">A-Ž</string>
+    <string name="sort_order_entry_date_added">Datum dodajanja</string>
+    <string name="sort_order_entry_duration">Trajanje</string>
+    <string name="sort_order_entry_filename">Ime datoteke</string>
+    <string name="sort_order_entry_number_of_albums">Število albumov</string>
+    <string name="sort_order_entry_number_of_songs">Število skladb</string>
+    <string name="sort_order_entry_track_list">Seznam skladb</string>
+    <string name="sort_order_entry_year">Leto</string>
+    <string name="sort_order_entry_za">Ž-A</string>
+    <string name="theme_set"><ns1:g id="name">%s</ns1:g> nastavljena kot tema</string>
+    <string name="use_default">Uporabi privzeto fotografijo</string>
+</resources>

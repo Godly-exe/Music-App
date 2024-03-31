@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.godly.huhumusic.app-mergeDebugResources-30:/values-eo-rUY/values-eo-rUY.xml",
+            "map": [
+                {
+                    "source": "E:\\HuHuMusic\\app\\src\\main\\res\\values-eo-rUY\\strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "1",
+                        "startOffsets": "716",
+                        "endColumns": "38",
+                        "endOffsets": "753"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

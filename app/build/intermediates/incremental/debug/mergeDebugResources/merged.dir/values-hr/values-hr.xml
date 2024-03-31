@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Natrag"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Više opcija"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"svemir"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pretraži"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Dijeli s"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Dijeli putem aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="accessibility_next">Sljedeći</string>
+    <string name="accessibility_pause">Pauziraj</string>
+    <string name="accessibility_play">Sviraj</string>
+    <string name="accessibility_prev">Prethodni</string>
+    <string name="accessibility_repeat">Ponovi</string>
+    <string name="accessibility_repeat_all">Ponovi sve</string>
+    <string name="accessibility_repeat_one">Ponovi jedan</string>
+    <string name="accessibility_shuffle">Miješaj</string>
+    <string name="accessibility_shuffle_all">Miješaj sve</string>
+    <string name="add_to_favorites">Dodaj u favorite</string>
+    <string name="add_to_playlist">Dodaj u playlistu</string>
+    <string name="add_to_queue">Dodaj u red</string>
+    <string name="app_widget_large_alt">Apollo: 4×2 (rezervna)</string>
+    <string name="app_widget_recent">Apollo: nedavno slušano</string>
+    <string name="cancel">Odbaci</string>
+    <string name="cannot_be_undone">Ovo se ne može poništiti</string>
+    <string name="color_picker_title">Šema boja</string>
+    <string name="context_menu_delete">Obriši</string>
+    <string name="context_menu_fetch_album_art">Dobavi fotografiju albuma</string>
+    <string name="context_menu_fetch_artist_image">Dobavi fotografiju izvođača</string>
+    <string name="context_menu_more_by_artist">Više od umjetnika</string>
+    <string name="context_menu_play_next">Sviraj sljedeću</string>
+    <string name="context_menu_play_selection">Sviraj</string>
+    <string name="context_menu_remove_from_playlist">Obriši iz playliste</string>
+    <string name="context_menu_remove_from_recent">Izbriši iz nedavnih</string>
+    <string name="context_menu_rename_playlist">Preimenuj</string>
+    <string name="context_menu_use_as_ringtone">Koristi kao melodiju zvona</string>
+    <string msgid="6083905920877235314" name="copy">"Kopiraj"</string>
+    <string name="could_not_be_pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> ne može biti pribodeno na vaš home screen</string>
+    <string name="create_playlist_prompt">Ime playliste</string>
+    <string name="current_color">Trenutna</string>
+    <string name="delete_dialog_title">Izbriši <ns1:g example="album" id="item">%s</ns1:g>?</string>
+    <string name="delete_warning">Ovo će trajno izbrisati podatke spremljenih slika</string>
+    <string name="empty_music">Za kopiranje glazbe s računala na uređaj, koristite USB kabel.</string>
+    <string name="empty_search">Nema rezultata pretraživanja</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Napredno"</string>
+    <string name="google_search">Google pretraga</string>
+    <string name="menu_add_to_homescreen">Pribodi na home screen</string>
+    <string name="menu_clear_queue">Očisti red</string>
+    <string name="menu_detailed">Detaljno</string>
+    <string name="menu_equalizer">Ekvalizer</string>
+    <string name="menu_grid">Mreža</string>
+    <string name="menu_play_all">Sviraj sve</string>
+    <string name="menu_save_queue">Spremi red</string>
+    <string name="menu_search">Pretraga</string>
+    <string name="menu_settings">Postavke</string>
+    <string name="menu_share">Dijeli</string>
+    <string name="menu_shuffle">Miješaj sve</string>
+    <string name="menu_simple">Jednostavno</string>
+    <string name="menu_sort_by">Sortiraj po</string>
+    <string name="menu_view_as">Vidi kao</string>
+    <string name="new_color">Nova</string>
+    <string name="new_photo">Odaberi sliku iz galerije</string>
+    <string name="new_playlist">Nova playlista</string>
+    <string name="new_playlist_name_template">Playlista <ns1:g id="number">%d</ns1:g></string>
+    <string name="no_effects_for_you">Ekvalizer se ne može otvoriti.</string>
+    <string msgid="6573031135582639649" name="not_set">"Nije postavljeno"</string>
+    <string name="old_photo">Koristi staru sliku</string>
+    <string name="overwrite">Prepiši</string>
+    <string name="page_albums">Albumi</string>
+    <string name="page_artists">Umjetnici</string>
+    <string name="page_genres">Žanrovi</string>
+    <string name="page_playlists">Playliste</string>
+    <string name="page_recent">Nedavno</string>
+    <string name="page_songs">Pjesme</string>
+    <string name="pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> pribodeno na vaš home screen</string>
+    <string name="playlist_favorite">Favorit</string>
+    <string name="playlist_favorites">Favoriti</string>
+    <string name="playlist_last_added">Aktualna</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Sažetak \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" kopiran je u međuspremnik."</string>
+    <string name="remove_from_favorites">Ukloni iz favorita</string>
+    <string name="remove_from_queue">Ukloni iz reda</string>
+    <string name="save">Spremi</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pretraži"</string>
+    <string name="set_as_ringtone">\'<ns1:g example="Alarm Bell" id="name">%s</ns1:g>\' postavi kao melodiju zvona</string>
+    <string name="settings_about_apollo">O Apollo</string>
+    <string name="settings_author_title">Autor</string>
+    <string name="settings_color_scheme_summary">Promjena naglašene boje Appola</string>
+    <string name="settings_color_scheme_title">Odaberi Apollo-vu zadanu šemu boja</string>
+    <string name="settings_data_category">Podaci</string>
+    <string name="settings_delete_cache_summary">Obriši sve slike iz predmemorije</string>
+    <string name="settings_delete_cache_title">Obriši predmemoriju</string>
+    <string name="settings_download_artist_images_title">Preuzmi slike umjetnika koje nedostaju</string>
+    <string name="settings_download_missing_artwork_title">Preuzmi sliku albuma koja nedostaje</string>
+    <string name="settings_download_only_on_wifi_summary">Kako bi smanjili troškove prenosnika, ne preuzimajte preko mobilnih mreža</string>
+    <string name="settings_download_only_on_wifi_title">Preuzimaj samo preko Wi-Fi</string>
+    <string name="settings_lopez_summary">Dizajn ikone i banera play trgovine</string>
+    <string name="settings_open_source_licenses">Open source licence</string>
+    <string name="settings_special_thanks">Posebna zahvala</string>
+    <string name="settings_storage_category">Pohrana</string>
+    <string name="settings_theme_chooser_title">Birač tema</string>
+    <string name="settings_ui_category">Sučelje</string>
+    <string name="settings_version_title">Broj verzije</string>
+    <string name="share_track_using">Dijeli pjesmu preko:</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_artist">Umjetnik</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_date_added">Datum dodano</string>
+    <string name="sort_order_entry_duration">Dužina</string>
+    <string name="sort_order_entry_filename">Naziv datoteke</string>
+    <string name="sort_order_entry_number_of_albums">Broj albuma</string>
+    <string name="sort_order_entry_number_of_songs">Broj pjesama</string>
+    <string name="sort_order_entry_track_list">Popis pjesama</string>
+    <string name="sort_order_entry_year">Godina</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="theme_set"><ns1:g id="name">%s</ns1:g> postavi kao temu</string>
+    <string name="use_default">Koristi zadanu sliku</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ISKLJUČENO"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"UKLJUČENO"</string>
+</resources>

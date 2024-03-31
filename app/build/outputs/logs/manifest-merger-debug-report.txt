@@ -1,0 +1,629 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:48:2-316:16
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:48:2-316:16
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yuhga\.gradle\caches\transforms-3\20fa87764c6e7342e06dabc4f4d963ba\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yuhga\.gradle\caches\transforms-3\20fa87764c6e7342e06dabc4f4d963ba\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\5ae7c4e259417d25175a4658df2f7982\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\5ae7c4e259417d25175a4658df2f7982\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\d215153a2a0e3aad8c3beaad3cd85c09\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\d215153a2a0e3aad8c3beaad3cd85c09\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:58:3-46
+	tools:ignore
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:62:3-33
+	android:allowTaskReparenting
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:53:3-38
+	android:largeHeap
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:57:3-27
+	android:icon
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:55:3-37
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:60:3-29
+	android:label
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:56:3-35
+	android:hardwareAccelerated
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:54:3-37
+	android:fullBackupContent
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:51:3-36
+	android:allowBackup
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:50:3-30
+	android:theme
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:61:3-43
+	android:dataExtractionRules
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:52:3-43
+	android:taskAffinity
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:59:3-47
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:49:3-58
+provider#androidx.core.content.FileProvider
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:65:3-73:14
+	android:grantUriPermissions
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:67:4-38
+	android:authorities
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:69:4-42
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:68:4-28
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:66:4-53
+action#org.godly.huhumusic.debug.AUDIO_PLAYER
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:157:5-60
+	android:name
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:157:13-57
+manifest
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:15:1-318:12
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:15:1-318:12
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:15:1-318:12
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:15:1-318:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\yuhga\.gradle\caches\transforms-3\dd3f1184f83a7b80a6cdc7d6c2dcd08e\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yuhga\.gradle\caches\transforms-3\20fa87764c6e7342e06dabc4f4d963ba\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\yuhga\.gradle\caches\transforms-3\9bb671b9fc3c1d8ed2d2f28af1bc8532\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\yuhga\.gradle\caches\transforms-3\63fed32e619fdbcd24b2353222aebf60\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\542b6cc5389114c1f81ebcfb55f9bed4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\yuhga\.gradle\caches\transforms-3\4470231417bc9919e53d03946fc86c05\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yuhga\.gradle\caches\transforms-3\f8c28d07c681f3814bada237e3392b0c\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\b17c70c79b8dca19ad35b3743bf21e5e\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\34f5b54f24e13980d28e6b89a533cb7a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\0d35d689a9cc2a40963d4d98046340be\transformed\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\ef0973e49d252955bfcaa157fbbc21df\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a400dc2c32a89611c9ace4cf5c67abc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\1739990385f379a7a4a36d4e7f098f0b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\03f0208cafd8e305f96177cd46c27bac\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\21294111d5a0d08bc3c72dcf8308e166\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\e2c0d19fe948ee85bd6587e5ed09b499\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\3d515c7809b2aa031ee74919766cfcd0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\277554c6be5b575adea8c055653df7c1\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\d2ac40c823a49c2a6b9668a8396a9c0c\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\7597e108ec97173aaff35f08df2839b7\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\567e7783735bdfa369f539b221e45043\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\acd76ae6af8a8a3ce0ec1814a75b4ca7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\37d9973ed88ce65a448fae13d6154abc\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\7ecd1420d3b35797afdf957f8666142e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\003df3c9f0ef7025cb02439ad3408281\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\0027700f174bb8fb8a97ae8560e6ad2c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\11ff85a0c27da55e549280126ac212da\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\bf94281f0a801634cee7caf6a65f0783\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\e7c668f04d733950a6afff373e34ad80\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\b0367de39d7bede7c46f12685508640e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\fe33b8d57b2d8e0284509a5969f6d788\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\529dbfedf543bd2a35b7dc65dae9d404\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yuhga\.gradle\caches\transforms-3\9b820e6cb983bf483b8a4d08a02e7184\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\yuhga\.gradle\caches\transforms-3\6cfc2c8ad23e0339864d6c4eb50834a4\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\340f51c5558b111a778f66f8441837f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\0edb97401f49634d9ce7862def04fad3\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\5ae7c4e259417d25175a4658df2f7982\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\d215153a2a0e3aad8c3beaad3cd85c09\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\982ed5587d089582e29581e85bdd0672\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\c006c78e56d6190da4515f9208dc921c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\99a7943ddca6ad77e10c2676a5a93e3b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\ea064d67a34f5bb6cda1409f48bf248b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\766911f24b889e9e54fe0b4fe930ff21\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\695d2df31a59a8361960dee396967c7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\ef6a13b32ee7a50f0522f28ff376f792\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\d7fc1eac6ce6a145ed2c55060970df02\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:16:49-78
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:16:2-48
+	android:versionCode
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:15:11-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:19:2-106
+	tools:ignore
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:19:68-103
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:19:19-67
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:21:2-92
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:21:19-89
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:23:2-105
+	android:maxSdkVersion
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:23:76-102
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:23:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:25:2-76
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:25:19-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:27:2-64
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:27:19-61
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:29:2-77
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:29:19-74
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:30:2-73
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:30:19-70
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:31:2-72
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:31:19-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:32:2-104
+	android:maxSdkVersion
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:32:75-101
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:32:19-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:34:2-74
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:34:19-71
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:35:2-89
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:35:19-86
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:37:2-85
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:37:19-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:38:2-65
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:38:19-62
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:39:2-74
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:39:19-71
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:40:2-78
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:40:19-75
+queries
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:42:2-46:12
+intent#action:name:com.andrew.apollo.THEMES
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:43:3-45:12
+action#com.andrew.apollo.THEMES
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:44:4-54
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:44:12-51
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:70:4-72:46
+	android:resource
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:72:5-43
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:71:5-55
+meta-data#android.app.default_searchable
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:76:3-78:52
+	android:value
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:78:4-49
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:77:4-49
+activity#org.godly.huhumusic.ui.activities.ActivityBase
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:81:3-83:30
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:83:4-27
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:82:4-65
+activity#org.godly.huhumusic.ui.activities.HomeActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:86:3-101:14
+	android:windowSoftInputMode
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:88:4-43
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:89:4-27
+	android:configChanges
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:90:4-54
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:87:4-65
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.MUSIC_PLAYER+category:name:android.intent.category.APP_MUSIC+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:92:4-99:20
+action#android.intent.action.MAIN
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:93:5-57
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:93:13-54
+action#android.intent.action.MUSIC_PLAYER
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:94:5-65
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:94:13-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:96:5-65
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:96:15-62
+category#android.intent.category.APP_MUSIC
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:97:5-66
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:97:15-63
+category#android.intent.category.DEFAULT
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+activity#org.godly.huhumusic.ui.activities.AudioPlayerActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:104:3-169:14
+	android:clearTaskOnLaunch
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:106:4-36
+	android:launchMode
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:108:4-35
+	android:windowSoftInputMode
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:109:4-43
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:107:4-27
+	android:configChanges
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:110:4-54
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:105:4-72
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:112:4-121:20
+action#android.intent.action.VIEW
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:5-57
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:13-54
+data
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+	android:scheme
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:11-35
+	android:mimeType
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:123:4-132:20
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:http
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:134:4-145:20
+category#android.intent.category.BROWSABLE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:138:5-66
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:138:15-63
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/albums+data:mimeType:vnd.android.cursor.dir/artists+data:mimeType:vnd.android.cursor.dir/playlist
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:147:4-154:20
+	tools:ignore
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:147:19-49
+intent-filter#action:name:org.godly.huhumusic.debug.AUDIO_PLAYER+category:name:android.intent.category.DEFAULT
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:156:4-159:20
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/audio
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:161:4-168:20
+action#android.intent.action.PICK
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:162:5-57
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:162:13-54
+category#android.intent.category.OPENABLE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:165:5-65
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:165:15-62
+activity#org.godly.huhumusic.ui.activities.ProfileActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:172:3-175:57
+	android:excludeFromRecents
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:174:4-37
+	android:configChanges
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:175:4-54
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:173:4-68
+activity#org.godly.huhumusic.ui.activities.AudioFxActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:178:3-180:40
+	android:excludeFromRecents
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:180:4-37
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:179:4-68
+activity#org.godly.huhumusic.ui.activities.ShortcutActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:183:3-194:14
+	android:excludeFromRecents
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:185:4-37
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:186:4-27
+	android:theme
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:187:4-44
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:184:4-69
+intent-filter#action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:189:4-192:20
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:190:5-74
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:190:13-71
+activity#org.godly.huhumusic.ui.activities.SearchActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:197:3-212:14
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:199:4-27
+	android:configChanges
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:200:4-54
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:198:4-67
+intent-filter#action:name:android.intent.action.MEDIA_SEARCH+action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:202:4-207:20
+action#android.intent.action.SEARCH
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:203:5-59
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:203:13-56
+action#android.intent.action.MEDIA_SEARCH
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:204:5-65
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:204:13-62
+meta-data#android.app.searchable
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:209:4-211:42
+	android:resource
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:211:5-39
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:210:5-42
+activity#org.godly.huhumusic.ui.activities.SettingsActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:215:3-218:47
+	android:label
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:217:4-41
+	android:theme
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:218:4-44
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:216:4-69
+activity#org.godly.huhumusic.ui.activities.ThemesActivity
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:221:3-224:57
+	android:excludeFromRecents
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:223:4-37
+	android:configChanges
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:224:4-54
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:222:4-67
+receiver#org.godly.huhumusic.ui.widgets.AppWidgetSmall
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:227:3-239:14
+	android:label
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:230:4-44
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:229:4-28
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:228:4-64
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:232:4-234:20
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:5-72
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:13-69
+meta-data#android.appwidget.provider
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:236:4-238:48
+	android:resource
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:238:5-45
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:237:5-46
+receiver#org.godly.huhumusic.ui.widgets.AppWidgetLarge
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:242:3-254:14
+	android:label
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:245:4-44
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:244:4-28
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:243:4-64
+receiver#org.godly.huhumusic.ui.widgets.AppWidgetLargeAlternate
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:257:3-269:14
+	android:label
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:260:4-48
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:259:4-28
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:258:4-73
+receiver#org.godly.huhumusic.ui.widgets.RecentWidgetProvider
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:272:3-284:14
+	android:label
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:275:4-45
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:274:4-28
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:273:4-70
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:286:3-294:14
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:288:4-28
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:287:4-61
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON+action:name:android.media.AUDIO_BECOMING_NOISY
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:290:4-293:20
+action#android.intent.action.MEDIA_BUTTON
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:291:5-65
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:291:13-62
+action#android.media.AUDIO_BECOMING_NOISY
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:292:5-65
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:292:13-62
+service#org.godly.huhumusic.service.RecentWidgetService
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:297:3-299:63
+	android:permission
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:299:4-60
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:298:4-66
+service#org.godly.huhumusic.service.MusicPlaybackService
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:302:3-314:13
+	android:process
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:306:4-28
+	android:label
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:304:4-36
+	android:exported
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:305:4-28
+	android:foregroundServiceType
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:307:4-49
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:303:4-67
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:308:4-310:20
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:311:4-313:20
+action#android.media.browse.MediaBrowserService
+ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:312:5-71
+	android:name
+		ADDED from E:\HuHuMusic\app\src\main\AndroidManifest.xml:312:13-68
+uses-sdk
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\yuhga\.gradle\caches\transforms-3\dd3f1184f83a7b80a6cdc7d6c2dcd08e\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\yuhga\.gradle\caches\transforms-3\dd3f1184f83a7b80a6cdc7d6c2dcd08e\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yuhga\.gradle\caches\transforms-3\20fa87764c6e7342e06dabc4f4d963ba\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\yuhga\.gradle\caches\transforms-3\20fa87764c6e7342e06dabc4f4d963ba\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\yuhga\.gradle\caches\transforms-3\9bb671b9fc3c1d8ed2d2f28af1bc8532\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\yuhga\.gradle\caches\transforms-3\9bb671b9fc3c1d8ed2d2f28af1bc8532\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\yuhga\.gradle\caches\transforms-3\63fed32e619fdbcd24b2353222aebf60\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\yuhga\.gradle\caches\transforms-3\63fed32e619fdbcd24b2353222aebf60\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\542b6cc5389114c1f81ebcfb55f9bed4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\542b6cc5389114c1f81ebcfb55f9bed4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\yuhga\.gradle\caches\transforms-3\4470231417bc9919e53d03946fc86c05\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\yuhga\.gradle\caches\transforms-3\4470231417bc9919e53d03946fc86c05\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yuhga\.gradle\caches\transforms-3\f8c28d07c681f3814bada237e3392b0c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\yuhga\.gradle\caches\transforms-3\f8c28d07c681f3814bada237e3392b0c\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\b17c70c79b8dca19ad35b3743bf21e5e\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\b17c70c79b8dca19ad35b3743bf21e5e\transformed\jetified-activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\34f5b54f24e13980d28e6b89a533cb7a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\34f5b54f24e13980d28e6b89a533cb7a\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\0d35d689a9cc2a40963d4d98046340be\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\0d35d689a9cc2a40963d4d98046340be\transformed\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\ef0973e49d252955bfcaa157fbbc21df\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\ef0973e49d252955bfcaa157fbbc21df\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a400dc2c32a89611c9ace4cf5c67abc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a400dc2c32a89611c9ace4cf5c67abc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\1739990385f379a7a4a36d4e7f098f0b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\1739990385f379a7a4a36d4e7f098f0b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\03f0208cafd8e305f96177cd46c27bac\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\03f0208cafd8e305f96177cd46c27bac\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\21294111d5a0d08bc3c72dcf8308e166\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\21294111d5a0d08bc3c72dcf8308e166\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\e2c0d19fe948ee85bd6587e5ed09b499\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\e2c0d19fe948ee85bd6587e5ed09b499\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\3d515c7809b2aa031ee74919766cfcd0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\3d515c7809b2aa031ee74919766cfcd0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\277554c6be5b575adea8c055653df7c1\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\277554c6be5b575adea8c055653df7c1\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\d2ac40c823a49c2a6b9668a8396a9c0c\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\yuhga\.gradle\caches\transforms-3\d2ac40c823a49c2a6b9668a8396a9c0c\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\7597e108ec97173aaff35f08df2839b7\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\7597e108ec97173aaff35f08df2839b7\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\567e7783735bdfa369f539b221e45043\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\567e7783735bdfa369f539b221e45043\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\acd76ae6af8a8a3ce0ec1814a75b4ca7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\acd76ae6af8a8a3ce0ec1814a75b4ca7\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\37d9973ed88ce65a448fae13d6154abc\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\37d9973ed88ce65a448fae13d6154abc\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\7ecd1420d3b35797afdf957f8666142e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\7ecd1420d3b35797afdf957f8666142e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\003df3c9f0ef7025cb02439ad3408281\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\003df3c9f0ef7025cb02439ad3408281\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\0027700f174bb8fb8a97ae8560e6ad2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\0027700f174bb8fb8a97ae8560e6ad2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\11ff85a0c27da55e549280126ac212da\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\11ff85a0c27da55e549280126ac212da\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\bf94281f0a801634cee7caf6a65f0783\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\bf94281f0a801634cee7caf6a65f0783\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\e7c668f04d733950a6afff373e34ad80\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\e7c668f04d733950a6afff373e34ad80\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\b0367de39d7bede7c46f12685508640e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\b0367de39d7bede7c46f12685508640e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\fe33b8d57b2d8e0284509a5969f6d788\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\fe33b8d57b2d8e0284509a5969f6d788\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\529dbfedf543bd2a35b7dc65dae9d404\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\529dbfedf543bd2a35b7dc65dae9d404\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yuhga\.gradle\caches\transforms-3\9b820e6cb983bf483b8a4d08a02e7184\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\yuhga\.gradle\caches\transforms-3\9b820e6cb983bf483b8a4d08a02e7184\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\yuhga\.gradle\caches\transforms-3\6cfc2c8ad23e0339864d6c4eb50834a4\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\yuhga\.gradle\caches\transforms-3\6cfc2c8ad23e0339864d6c4eb50834a4\transformed\jetified-lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\340f51c5558b111a778f66f8441837f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\340f51c5558b111a778f66f8441837f0\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\0edb97401f49634d9ce7862def04fad3\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\0edb97401f49634d9ce7862def04fad3\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\5ae7c4e259417d25175a4658df2f7982\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\5ae7c4e259417d25175a4658df2f7982\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\d215153a2a0e3aad8c3beaad3cd85c09\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\d215153a2a0e3aad8c3beaad3cd85c09\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\982ed5587d089582e29581e85bdd0672\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\982ed5587d089582e29581e85bdd0672\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\c006c78e56d6190da4515f9208dc921c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\c006c78e56d6190da4515f9208dc921c\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\99a7943ddca6ad77e10c2676a5a93e3b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\yuhga\.gradle\caches\transforms-3\99a7943ddca6ad77e10c2676a5a93e3b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\ea064d67a34f5bb6cda1409f48bf248b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yuhga\.gradle\caches\transforms-3\ea064d67a34f5bb6cda1409f48bf248b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\766911f24b889e9e54fe0b4fe930ff21\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\766911f24b889e9e54fe0b4fe930ff21\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\695d2df31a59a8361960dee396967c7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\695d2df31a59a8361960dee396967c7a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\ef6a13b32ee7a50f0522f28ff376f792\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\ef6a13b32ee7a50f0522f28ff376f792\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\d7fc1eac6ce6a145ed2c55060970df02\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\d7fc1eac6ce6a145ed2c55060970df02\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\HuHuMusic\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\d215153a2a0e3aad8c3beaad3cd85c09\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\yuhga\.gradle\caches\transforms-3\d215153a2a0e3aad8c3beaad3cd85c09\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#org.godly.huhumusic.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#org.godly.huhumusic.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

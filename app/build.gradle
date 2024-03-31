@@ -1,0 +1,59 @@
+plugins {
+	id 'org.jetbrains.kotlin.android' version '1.8.10'
+	id 'com.android.application'
+}
+
+android {
+	compileSdkVersion 34
+	buildToolsVersion '34.0.0'
+	useLibrary 'org.apache.http.legacy'
+//	namespace 'org.nuclearfog.apollo'
+	namespace 'org.godly.huhumusic'
+
+	defaultConfig {
+		applicationId 'org.godly.huhumusic'
+		minSdkVersion 16
+		targetSdkVersion 34
+		versionCode 30
+		versionName '1.0'
+	}
+
+	buildTypes {
+		release {
+			debuggable false
+			minifyEnabled true
+			shrinkResources true
+			multiDexEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+		}
+		debug {
+			applicationIdSuffix '.debug'
+			versionNameSuffix 'd'
+		}
+	}
+
+	packagingOptions {
+		exclude '/META-INF/CHANGES'
+		exclude '/META-INF/DEPENDENCIES'
+		exclude '/META-INF/README.md'
+		exclude '/META-INF/androidx.*'
+		exclude '/META-INF/kotlin*'
+		exclude '/META-INF/com.*'
+		exclude '/META-INF/services/**'
+		exclude '/META-INF/com/**'
+		exclude '/kotlin/**'
+		exclude '/Debug*'
+	}
+
+	buildFeatures {
+		aidl true
+	}
+}
+
+dependencies {
+	implementation 'androidx.appcompat:appcompat:1.6.1'
+	implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+	implementation 'androidx.preference:preference:1.2.1'
+	implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+	implementation 'androidx.media:media:1.6.0'
+}

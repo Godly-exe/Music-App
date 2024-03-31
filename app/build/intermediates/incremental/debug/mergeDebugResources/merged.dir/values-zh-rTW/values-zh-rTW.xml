@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="NNNtracksdeleted">
+		<item quantity="other"><ns1:g id="songs_to_delete">%d</ns1:g> 首歌已刪除。</item>
+	</plurals>
+    <plurals name="NNNtracksfromplaylist">
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> 首歌已從播放清單移除。</item>
+	</plurals>
+    <plurals name="NNNtrackstoplaylist">
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> 首歌已加入播放清單。</item>
+	</plurals>
+    <plurals name="NNNtrackstoqueue">
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> 首歌已加入隊列。</item>
+	</plurals>
+    <plurals name="Nalbums">
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> 張專輯</item>
+	</plurals>
+    <plurals name="Nsongs">
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> 首樂曲</item>
+	</plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"關閉"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"開啟"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="accessibility_next">下一首</string>
+    <string name="accessibility_pause">暫停</string>
+    <string name="accessibility_play">播放</string>
+    <string name="accessibility_prev">上一首</string>
+    <string name="accessibility_repeat">循環</string>
+    <string name="accessibility_repeat_all">全部循環</string>
+    <string name="accessibility_repeat_one">單曲循環</string>
+    <string name="accessibility_shuffle">隨機播放</string>
+    <string name="accessibility_shuffle_all">全部隨機播放</string>
+    <string name="add_to_favorites">加入最愛</string>
+    <string name="add_to_playlist">加入播放清單</string>
+    <string name="add_to_queue">加入隊列</string>
+    <string name="app_widget_large_alt">Apollo: 4×2 (替代)</string>
+    <string name="app_widget_recent">Apollo: 最近聆聽</string>
+    <string name="cancel">取消</string>
+    <string name="cannot_be_undone">這個動作無法復原</string>
+    <string name="color_picker_title">配色方案</string>
+    <string name="context_menu_delete">刪除</string>
+    <string name="context_menu_fetch_album_art">取得專輯封面</string>
+    <string name="context_menu_fetch_artist_image">取得演出者影像</string>
+    <string name="context_menu_more_by_artist">更多來自此演出者的作品</string>
+    <string name="context_menu_play_next">播放下一首</string>
+    <string name="context_menu_play_selection">播放</string>
+    <string name="context_menu_remove_from_playlist">從播放清單移除</string>
+    <string name="context_menu_remove_from_recent">從最近播放移除</string>
+    <string name="context_menu_rename_playlist">重新命名</string>
+    <string name="context_menu_use_as_ringtone">設為鈴聲</string>
+    <string msgid="6083905920877235314" name="copy">"複製"</string>
+    <string name="could_not_be_pinned_to_home_screen">「<ns1:g id="name">%s</ns1:g>」無法被釘選到您的主螢幕</string>
+    <string name="create_playlist_prompt">播放清單名稱</string>
+    <string name="current_color">目前</string>
+    <string name="delete_dialog_title">刪除「<ns1:g example="album" id="item">%s</ns1:g>」？</string>
+    <string name="delete_warning">這將永久刪除已快取的影像</string>
+    <string name="empty_music">使用 USB 傳輸線將音樂從您的電腦複製到您的裝置。</string>
+    <string name="empty_search">無搜尋結果</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"進階"</string>
+    <string name="google_search">Google 搜尋</string>
+    <string name="menu_add_to_homescreen">釘選到主螢幕</string>
+    <string name="menu_clear_queue">清除隊列</string>
+    <string name="menu_detailed">詳細</string>
+    <string name="menu_equalizer">等化器</string>
+    <string name="menu_grid">格狀</string>
+    <string name="menu_play_all">全部播放</string>
+    <string name="menu_save_queue">儲存隊列</string>
+    <string name="menu_search">搜尋</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_shuffle">全部隨機播放</string>
+    <string name="menu_simple">簡單</string>
+    <string name="menu_sort_by">排序</string>
+    <string name="menu_view_as">檢視</string>
+    <string name="new_color">新的</string>
+    <string name="new_photo">選擇來自圖片庫的相片</string>
+    <string name="new_playlist">新增播放清單</string>
+    <string name="new_playlist_name_template">播放清單「<ns1:g id="number">%d</ns1:g>」</string>
+    <string name="no_effects_for_you">無法開啟等化器。</string>
+    <string msgid="6573031135582639649" name="not_set">"未設定"</string>
+    <string name="old_photo">使用舊相片</string>
+    <string name="overwrite">覆寫</string>
+    <string name="page_albums">專輯</string>
+    <string name="page_artists">演出者</string>
+    <string name="page_genres">類型</string>
+    <string name="page_playlists">播放清單</string>
+    <string name="page_recent">最近播放</string>
+    <string name="page_songs">樂曲</string>
+    <string name="pinned_to_home_screen">「<ns1:g id="name">%s</ns1:g>」已釘選到您的主螢幕</string>
+    <string name="playlist_favorite">最愛</string>
+    <string name="playlist_favorites">最愛</string>
+    <string name="playlist_last_added">最後加入</string>
+    <string msgid="6685851473431805375" name="preference_copied">"已將「<ns1:g id="SUMMARY">%1$s</ns1:g>」複製到剪貼簿。"</string>
+    <string name="remove_from_favorites">從最愛移除</string>
+    <string name="remove_from_queue">從隊列移除</string>
+    <string name="save">儲存</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜尋"</string>
+    <string name="set_as_ringtone">「<ns1:g example="Alarm Bell" id="name">%s</ns1:g>」已設為鈴聲</string>
+    <string name="settings_about_apollo">關於 Apollo</string>
+    <string name="settings_author_title">作者</string>
+    <string name="settings_color_scheme_summary">變更 Apollo 中的強調色</string>
+    <string name="settings_color_scheme_title">選擇 Apollo 的預設配色方案</string>
+    <string name="settings_data_category">資料</string>
+    <string name="settings_delete_cache_summary">移除所有已快取的影像</string>
+    <string name="settings_delete_cache_title">刪除快取</string>
+    <string name="settings_download_artist_images_title">下載缺少的演出者影像</string>
+    <string name="settings_download_missing_artwork_title">下載缺少的專輯封面</string>
+    <string name="settings_download_only_on_wifi_summary">為節省傳輸費用，不要透過行動網路下載</string>
+    <string name="settings_download_only_on_wifi_title">僅透過 Wi-Fi 下載</string>
+    <string name="settings_lopez_summary">圖示與 Play 商店的橫額設計</string>
+    <string name="settings_open_source_licenses">開放原始碼授權</string>
+    <string name="settings_special_thanks">特別感謝</string>
+    <string name="settings_storage_category">儲存空間</string>
+    <string name="settings_theme_chooser_title">主題選擇器</string>
+    <string name="settings_ui_category">介面</string>
+    <string name="settings_version_title">版本號碼</string>
+    <string name="share_track_using">曲目分享方式：</string>
+    <string name="sort_order_entry_album">專輯</string>
+    <string name="sort_order_entry_artist">演出者</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_date_added">加入日期</string>
+    <string name="sort_order_entry_duration">長度</string>
+    <string name="sort_order_entry_filename">檔案名稱</string>
+    <string name="sort_order_entry_number_of_albums">專輯數量</string>
+    <string name="sort_order_entry_number_of_songs">樂曲數量</string>
+    <string name="sort_order_entry_track_list">曲目列表</string>
+    <string name="sort_order_entry_year">年分</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="theme_set">「<ns1:g id="name">%s</ns1:g>」已設為主題</string>
+    <string name="use_default">使用預設相片</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"關閉"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"開啟"</string>
+</resources>

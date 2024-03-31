@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="NNNtracksdeleted">
+		<item quantity="one"><ns1:g example="1" id="songs_to_delete">%d</ns1:g> canción foi eliminada.</item>
+		<item quantity="other"><ns1:g id="songs_to_delete">%d</ns1:g> cancións foron eliminadas.</item>
+	</plurals>
+    <plurals name="NNNtracksfromplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> canción eliminada da lista de reprodución.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cancións eliminadas da lista de reprodución.</item>
+	</plurals>
+    <plurals name="NNNtrackstoplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> canción engadida á lista de reprodución.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cancións engadidas á lista de reprodución.</item>
+	</plurals>
+    <plurals name="NNNtrackstoqueue">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> canción engadida á cola.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cancións engadidas á cola.</item>
+	</plurals>
+    <plurals name="Nalbums">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> álbum</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> álbums</item>
+	</plurals>
+    <plurals name="Nsongs">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> canción</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> cancións</item>
+	</plurals>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_dialog_title">Eliminar <ns1:g example="album" id="item">%s</ns1:g>?</string>
+    <string name="menu_detailed">Detallado</string>
+    <string name="menu_equalizer">Ecualizador</string>
+    <string name="menu_play_all">Reproducir todo</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_shuffle">Todo aleatorio</string>
+    <string name="menu_simple">Sinxelo</string>
+    <string name="menu_sort_by">Ordenar por</string>
+    <string name="menu_view_as">Ver como</string>
+    <string name="page_albums">Álbumes</string>
+    <string name="page_artists">Artistas</string>
+    <string name="page_genres">Xéneros</string>
+    <string name="page_playlists">Listas de reprodución</string>
+    <string name="page_recent">Recente</string>
+    <string name="page_songs">Cancións</string>
+    <string name="playlist_favorite">Favorito</string>
+    <string name="playlist_favorites">Favoritos</string>
+    <string name="save">Gardar</string>
+    <string name="sort_order_entry_album">Álbum</string>
+    <string name="sort_order_entry_artist">Artista</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_date_added">Engadida o</string>
+    <string name="sort_order_entry_duration">Duración</string>
+    <string name="sort_order_entry_number_of_albums">Número de álbumes</string>
+    <string name="sort_order_entry_number_of_songs">Número de cancións</string>
+    <string name="sort_order_entry_track_list">Lista de cancións</string>
+    <string name="sort_order_entry_za">Z-A</string>
+</resources>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="NNNtracksdeleted">
+		<item quantity="one"><ns1:g example="1" id="songs_to_delete">%d</ns1:g> cançó s\'ha esborrat.</item>
+		<item quantity="other"><ns1:g id="songs_to_delete">%d</ns1:g> cançons s\'han esborrat.</item>
+	</plurals>
+    <plurals name="NNNtracksfromplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> cançó s\'ha tret de la llista de reproducció.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cançons s\'han tret de la llista de reproducció.</item>
+	</plurals>
+    <plurals name="NNNtrackstoplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> cançó s\'ha afegit a la llista de reproducció.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cançons s\'han afegit a la llista de reproducció.</item>
+	</plurals>
+    <plurals name="NNNtrackstoqueue">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> cançó s\'ha afegit a la cua.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> cançons s\'han afegit a la cua.</item>
+	</plurals>
+    <plurals name="Nalbums">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> àlbum</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> àlbums</item>
+	</plurals>
+    <plurals name="Nsongs">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> cançó</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> cançons</item>
+	</plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navega fins a la pàgina d\'inici"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navega cap amunt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra-ho tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Supr"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Retorn"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funció+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espai"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="accessibility_next">Següent</string>
+    <string name="accessibility_pause">Pausa</string>
+    <string name="accessibility_play">Reprodueix</string>
+    <string name="accessibility_prev">Anterior</string>
+    <string name="accessibility_repeat">Repeteix</string>
+    <string name="accessibility_repeat_all">Repeteix tot</string>
+    <string name="accessibility_repeat_one">Repeteix un</string>
+    <string name="accessibility_shuffle">Barreja</string>
+    <string name="accessibility_shuffle_all">Barreja-ho tot</string>
+    <string name="add_to_favorites">Afegeix als preferits</string>
+    <string name="add_to_playlist">Afegeix a la llista de reproducció</string>
+    <string name="add_to_queue">Afegeix a la cua</string>
+    <string name="app_widget_large_alt">Apollo: 4×2 (alternatiu)</string>
+    <string name="app_widget_recent">Apollo: escoltats recentment</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="cannot_be_undone">Això no es podrà desfer</string>
+    <string name="color_picker_title">Esquema de color</string>
+    <string name="context_menu_delete">Esborra</string>
+    <string name="context_menu_fetch_album_art">Ves a buscar la coberta</string>
+    <string name="context_menu_fetch_artist_image">Ves a buscar una imatge de l\'artista</string>
+    <string name="context_menu_more_by_artist">Més de l\'artista</string>
+    <string name="context_menu_play_next">Reprodueix el següent</string>
+    <string name="context_menu_play_selection">Reprodueix</string>
+    <string name="context_menu_remove_from_playlist">Treu de la llista de reproducció</string>
+    <string name="context_menu_remove_from_recent">Treu dels recents</string>
+    <string name="context_menu_rename_playlist">Reanomena</string>
+    <string name="context_menu_use_as_ringtone">Utilitza com a to de trucada</string>
+    <string msgid="6083905920877235314" name="copy">"Copia"</string>
+    <string name="could_not_be_pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> no s\'ha pogut fixar a la teva pantalla d\'inici</string>
+    <string name="create_playlist_prompt">Nom de la llista de reproducció</string>
+    <string name="current_color">Actual</string>
+    <string name="delete_dialog_title">Esborra <ns1:g example="album" id="item">%s</ns1:g>?</string>
+    <string name="delete_warning">Això esborrarà permanentment les imatges de la memòria cau</string>
+    <string name="empty_music">Per copiar música del teu ordenador al teu dispositiu, utilitza un cable USB.</string>
+    <string name="empty_search">No s\'han trobat resultats</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Opcions avançades"</string>
+    <string name="google_search">Cerca a Google</string>
+    <string name="menu_add_to_homescreen">Fixa-ho a la pantalla d\'inici</string>
+    <string name="menu_clear_queue">Neteja la cua</string>
+    <string name="menu_detailed">Detallat</string>
+    <string name="menu_equalizer">Equalitzador</string>
+    <string name="menu_grid">Graella</string>
+    <string name="menu_play_all">Reprodueix tot</string>
+    <string name="menu_save_queue">Desa la cua</string>
+    <string name="menu_search">Cerca</string>
+    <string name="menu_settings">Configuració</string>
+    <string name="menu_share">Comparteix</string>
+    <string name="menu_shuffle">Barreja-ho tot</string>
+    <string name="menu_simple">Simple</string>
+    <string name="menu_sort_by">Ordena per</string>
+    <string name="menu_view_as">Veure com</string>
+    <string name="new_color">Nou</string>
+    <string name="new_photo">Escull una foto de la Galeria</string>
+    <string name="new_playlist">Nova llista de reproducció</string>
+    <string name="new_playlist_name_template">Llista de reproducció <ns1:g id="number">%d</ns1:g></string>
+    <string name="no_effects_for_you">L\'equalitzador no s\'ha pogut obrir.</string>
+    <string msgid="6573031135582639649" name="not_set">"No definit"</string>
+    <string name="old_photo">Utilitza la foto antiga</string>
+    <string name="overwrite">Sobreescriu</string>
+    <string name="page_albums">Àlbums</string>
+    <string name="page_artists">Artistes</string>
+    <string name="page_genres">Gèneres</string>
+    <string name="page_playlists">Llistes de reproducció</string>
+    <string name="page_recent">Recent</string>
+    <string name="page_songs">Cançons</string>
+    <string name="pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> fixat a la teva pantalla d\'inici</string>
+    <string name="playlist_favorite">Preferit</string>
+    <string name="playlist_favorites">Preferits</string>
+    <string name="playlist_last_added">Darrer afegit</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" s\'ha copiat al porta-retalls"</string>
+    <string name="remove_from_favorites">Treu dels preferits</string>
+    <string name="remove_from_queue">Treu de la cua</string>
+    <string name="save">Desa</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string name="set_as_ringtone">\'<ns1:g example="Alarm Bell" id="name">%s</ns1:g>\' fixat com a to de trucada</string>
+    <string name="settings_about_apollo">Quant a Apollo</string>
+    <string name="settings_author_title">Autor</string>
+    <string name="settings_color_scheme_summary">Canvia el color de l\'accent a l\'Apollo</string>
+    <string name="settings_color_scheme_title">Escull l\'esquema de color predefinit de l\'Apollo</string>
+    <string name="settings_data_category">Dades</string>
+    <string name="settings_delete_cache_summary">Treu totes les imatges de la memòria cau</string>
+    <string name="settings_delete_cache_title">Esborra memòria cau</string>
+    <string name="settings_download_artist_images_title">Descarrega les imatges dels artistes que faltin</string>
+    <string name="settings_download_missing_artwork_title">Descarrega les cobertes que faltin</string>
+    <string name="settings_download_only_on_wifi_summary">Per reduir les despeses amb l\'operadora, no descarreguis en xarxes mòbils</string>
+    <string name="settings_download_only_on_wifi_title">Descarrega només via Wi-Fi</string>
+    <string name="settings_lopez_summary">Disseny de l\'icona i el banner de la Play Store</string>
+    <string name="settings_open_source_licenses">Llicencies de codi obert</string>
+    <string name="settings_special_thanks">Agraïments especials</string>
+    <string name="settings_storage_category">Emmagatzematge</string>
+    <string name="settings_theme_chooser_title">Selector de tema</string>
+    <string name="settings_ui_category">Interfície</string>
+    <string name="settings_version_title">Número de versió</string>
+    <string name="share_track_using">Comparteix la pista utilitzant:</string>
+    <string name="sort_order_entry_album">Àlbum</string>
+    <string name="sort_order_entry_artist">Artista</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_date_added">Data d\'addició</string>
+    <string name="sort_order_entry_duration">Duració</string>
+    <string name="sort_order_entry_filename">Nom del fitxer</string>
+    <string name="sort_order_entry_number_of_albums">Nombre d\'àlbums</string>
+    <string name="sort_order_entry_number_of_songs">Nombre de cançons</string>
+    <string name="sort_order_entry_track_list">Llista de pistes</string>
+    <string name="sort_order_entry_year">Any</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="theme_set"><ns1:g id="name">%s</ns1:g> com a tema</string>
+    <string name="use_default">Utilitza la foto predefinida</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESACTIVAT"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVAT"</string>
+</resources>

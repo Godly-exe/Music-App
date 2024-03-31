@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidElementNotAllowed -->
+<paths>
+	<external-path name="apollo_music" path="." />
+
+	<root-path name="external_files" path="." />
+
+</paths>

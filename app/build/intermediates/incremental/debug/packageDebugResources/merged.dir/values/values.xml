@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="page_titles" translatable="false">
+		<item>@string/page_playlists</item>
+		<item>@string/page_recent</item>
+		<item>@string/page_artists</item>
+		<item>@string/page_albums</item>
+		<item>@string/page_songs</item>
+		<item>@string/page_genres</item>
+		<item>@string/page_folders</item>
+	</string-array>
+    <attr format="boolean" name="centered"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+    <color name="action_bar">@color/action_bar_color</color>
+    <color name="action_bar_color">#ff0d0d0d</color>
+    <color name="action_bar_subtitle">@color/transparent_white</color>
+    <color name="action_bar_title">@color/white</color>
+    <color name="alert">#CC0000</color>
+    <color name="audio_player_current_time">@color/white</color>
+    <color name="audio_player_line_one">@color/white</color>
+    <color name="audio_player_line_two">@color/transparent_white</color>
+    <color name="audio_player_total_time">@color/white</color>
+    <color name="bab_line_one">@color/white</color>
+    <color name="bab_line_two">@color/transparent_white</color>
+    <color name="black">#ff000000</color>
+    <color name="carousell_text_background">#66000000</color>
+    <color name="confirm">#FF8800</color>
+    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
+    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
+    <color name="favorite_selected">@android:color/holo_blue_bright</color>
+    <color name="holo_green">#ff19F800</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_dark">#ffff8800</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_purple">#ffaa66cc</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="ic_launcher_background">#2E3E49</color>
+    <color name="line_one">@color/white</color>
+    <color name="line_three">@color/transparent_white</color>
+    <color name="line_two">@color/transparent_white</color>
+    <color name="list_item_background">#66000000</color>
+    <color name="scrollbar_thumb_color">#6fffffff</color>
+    <color name="tpi_selected_text_color">#ffffffff</color>
+    <color name="tpi_unselected_text_color">#ff7f7f7f</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#99000000</color>
+    <color name="transparent_white">#ffcccccc</color>
+    <color name="white">#ffffffff</color>
+    <dimen name="app_widget_bottom_margin">4.0dp</dimen>
+    <dimen name="app_widget_large_alternate_artwork_size">80.0dp</dimen>
+    <dimen name="app_widget_large_min_height">128.0dp</dimen>
+    <dimen name="app_widget_large_min_width">250.0dp</dimen>
+    <dimen name="app_widget_recents_action_bar_height">48.0dp</dimen>
+    <dimen name="app_widget_recents_action_bar_icon_margin">8.0dp</dimen>
+    <dimen name="app_widget_recents_action_bar_icon_size">32.0dp</dimen>
+    <dimen name="app_widget_scrollable_min_height">180.0dp</dimen>
+    <dimen name="app_widget_scrollable_min_resize_height">110.0dp</dimen>
+    <dimen name="app_widget_small_artwork_size">48.0dp</dimen>
+    <dimen name="app_widget_small_button_height">48.0dp</dimen>
+    <dimen name="app_widget_small_button_padding">8.0dp</dimen>
+    <dimen name="app_widget_small_info_container_padding_left">8.0dp</dimen>
+    <dimen name="app_widget_small_info_container_padding_right">8.0dp</dimen>
+    <dimen name="app_widget_small_min_height">40.0dp</dimen>
+    <dimen name="app_widget_small_min_width">250.0dp</dimen>
+    <dimen name="audio_player_controls_end_button_height">40.0dp</dimen>
+    <dimen name="audio_player_controls_end_button_width">40.0dp</dimen>
+    <dimen name="audio_player_controls_informations_min_width">250.0dp</dimen>
+    <dimen name="audio_player_controls_main_button_height">50.0dp</dimen>
+    <dimen name="audio_player_controls_main_button_width">50.0dp</dimen>
+    <dimen name="audio_player_controls_padding">8.0dp</dimen>
+    <dimen name="audio_player_header_margin">8.0dp</dimen>
+    <dimen name="audio_player_informations_padding">8.0dp</dimen>
+    <dimen name="audio_player_seek_bar_margin_bottom">2.0dp</dimen>
+    <dimen name="audio_player_time_width">30.0sp</dimen>
+    <dimen name="bottom_action_bar_button_container_width">165.0dp</dimen>
+    <dimen name="bottom_action_bar_height">48.0dp</dimen>
+    <dimen name="bottom_action_bar_info_padding_left">5.0dp</dimen>
+    <dimen name="bottom_action_bar_item_padding_left">12.0dp</dimen>
+    <dimen name="bottom_action_bar_item_padding_right">12.0dp</dimen>
+    <dimen name="color_scheme_dialog_button_height">45dp</dimen>
+    <dimen name="color_scheme_dialog_row_padding">8.0dp</dimen>
+    <dimen name="colorstrip_height">2.0dp</dimen>
+    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
+    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
+    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
+    <dimen name="default_title_indicator_text_size">15dp</dimen>
+    <dimen name="default_title_indicator_title_padding">5dp</dimen>
+    <dimen name="default_title_indicator_top_padding">7dp</dimen>
+    <dimen name="drag_and_drop_handle_margin">10dp</dimen>
+    <dimen name="grid_item_spacing">4.0dp</dimen>
+    <dimen name="grid_item_text_padding">8.0dp</dimen>
+    <dimen name="grid_search_grid_margin">8dp</dimen>
+    <dimen name="item_normal_height">64.0dp</dimen>
+    <dimen name="item_theme_image_padding">10dp</dimen>
+    <dimen name="item_theme_text_padding">5dp</dimen>
+    <dimen name="list_empty_text_padding">10.0dp</dimen>
+    <dimen name="list_item_detailed_drawable_padding">16dp</dimen>
+    <dimen name="list_item_detailed_height">120.0dp</dimen>
+    <dimen name="list_item_detailed_padding">12dp</dimen>
+    <dimen name="list_item_line_two_margin_top">8.0dp</dimen>
+    <dimen name="list_item_text_padding">10dp</dimen>
+    <dimen name="list_preferred_item_padding">10.0dp</dimen>
+    <dimen name="notification_action_height">48.0dp</dimen>
+    <dimen name="notification_action_padding">8.0dp</dimen>
+    <dimen name="notification_action_width">48.0dp</dimen>
+    <dimen name="notification_big_icon_height">64.0dp</dimen>
+    <dimen name="notification_big_icon_width">64.0dp</dimen>
+    <dimen name="notification_close_button_size">40dp</dimen>
+    <dimen name="notification_expanded_button_height">48.0dp</dimen>
+    <dimen name="notification_expanded_button_padding">10.0dp</dimen>
+    <dimen name="notification_expanded_buttons_divider_padding">12.0dp</dimen>
+    <dimen name="notification_expanded_height">128.0dp</dimen>
+    <dimen name="notification_info_container_padding_bottom">4.0dp</dimen>
+    <dimen name="notification_info_container_padding_left">8.0dp</dimen>
+    <dimen name="profile_carousel_label_height">45.0dp</dimen>
+    <dimen name="profile_indicator_height">5.0dp</dimen>
+    <dimen name="profile_label_padding">16.0dp</dimen>
+    <dimen name="profile_photo_shadow_height">10.0dp</dimen>
+    <dimen name="shadow_height">5.0dp</dimen>
+    <dimen name="text_size_dayum">36.0sp</dimen>
+    <dimen name="text_size_extra_micro">10.0sp</dimen>
+    <dimen name="text_size_large">18.0sp</dimen>
+    <dimen name="text_size_medium">16.0sp</dimen>
+    <dimen name="text_size_micro">12.0sp</dimen>
+    <dimen name="text_size_small">14.0sp</dimen>
+    <dimen name="toolbar_height">45dp</dimen>
+    <fraction name="tab_height_screen_percentage">42.0%</fraction>
+    <fraction name="tab_width_screen_percentage">75.0%</fraction>
+    <integer name="default_title_indicator_footer_indicator_style">2</integer>
+    <integer name="default_title_indicator_line_position">0</integer>
+    <plurals name="NNNtracksdeleted">
+		<item quantity="one"><ns1:g example="1" id="songs_to_delete">%d</ns1:g> song was deleted.</item>
+		<item quantity="other"><ns1:g id="songs_to_delete">%d</ns1:g> songs were deleted.</item>
+	</plurals>
+    <plurals name="NNNtracksfromplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> song removed from playlist.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> songs removed from playlist.</item>
+	</plurals>
+    <plurals name="NNNtrackstoplaylist">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> song added to playlist.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> songs added to playlist.</item>
+	</plurals>
+    <plurals name="NNNtrackstoqueue">
+		<item quantity="one"><ns1:g example="1" id="number">%d</ns1:g> song added to the queue.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> songs added to the queue.</item>
+	</plurals>
+    <plurals name="Nalbums">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> album</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> albums</item>
+	</plurals>
+    <plurals name="Nsongs">
+		<item quantity="one"><ns1:g id="count">%d</ns1:g> song</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> songs</item>
+	</plurals>
+    <string name="accessibility_album_art">Album Art</string>
+    <string name="accessibility_next">Next</string>
+    <string name="accessibility_pause">Pause</string>
+    <string name="accessibility_play">Play</string>
+    <string name="accessibility_prev">Previous</string>
+    <string name="accessibility_repeat">Repeat</string>
+    <string name="accessibility_repeat_all">Repeat all</string>
+    <string name="accessibility_repeat_one">Repeat one</string>
+    <string name="accessibility_shuffle">Shuffle</string>
+    <string name="accessibility_shuffle_all">Shuffle all</string>
+    <string name="accessibility_switch_album_art">switch to album art</string>
+    <string name="accessibility_switch_queue">switch to queue</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="add_to_queue">Add to queue</string>
+    <string name="app_name" translatable="false">HuHuMusic</string>
+    <string name="app_widget_large" translatable="false">HuHuMusic: 4×2</string>
+    <string name="app_widget_large_alt">HuHuMusic: 4×2 (alternate)</string>
+    <string name="app_widget_recent">HuHuMusic: recently listened</string>
+    <string name="app_widget_small" translatable="false">HuHuMusic: 4×1</string>
+    <string name="app_widget_text_separator" translatable="false">-</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannot_be_undone">This cannot be undone</string>
+    <string name="color_picker_title">Color scheme</string>
+    <string name="context_menu_copy_playlist">Copy</string>
+    <string name="context_menu_delete">Delete</string>
+    <string name="context_menu_fetch_album_art">Fetch album art</string>
+    <string name="context_menu_fetch_artist_image">Fetch artist image</string>
+    <string name="context_menu_hide_album">Hide album</string>
+    <string name="context_menu_hide_artist">Hide artist</string>
+    <string name="context_menu_hide_folder">Hide folder</string>
+    <string name="context_menu_hide_genre">Hide genre</string>
+    <string name="context_menu_hide_track">Hide song</string>
+    <string name="context_menu_more_by_artist">More by artist</string>
+    <string name="context_menu_play_next">Play next</string>
+    <string name="context_menu_play_selection">Play</string>
+    <string name="context_menu_remove_from_playlist">Remove from playlist</string>
+    <string name="context_menu_remove_from_recent">Remove from recent</string>
+    <string name="context_menu_rename_playlist">Rename</string>
+    <string name="context_menu_unhide_album">Unhide album</string>
+    <string name="context_menu_unhide_artist">Unhide artist</string>
+    <string name="context_menu_unhide_folder">Unhide folder</string>
+    <string name="context_menu_unhide_genre">Unhide genre</string>
+    <string name="context_menu_unhide_track">Unhide song</string>
+    <string name="context_menu_use_as_ringtone">Use as ringtone</string>
+    <string name="could_not_be_pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> could not be pinned to your home screen</string>
+    <string name="create_playlist_prompt">Playlist name</string>
+    <string name="current_color">Current</string>
+    <string name="delete_dialog_title">Delete <ns1:g example="album" id="item">%s</ns1:g>?</string>
+    <string name="delete_warning">This will permanently delete the cached image entries</string>
+    <string name="durationformatlong" translatable="false"><ns1:g id="format">%1$d:%2$02d:%3$02d</ns1:g></string>
+    <string name="durationformatshort" translatable="false"><ns1:g id="format">%2$d:%3$02d</ns1:g></string>
+    <string name="empty_artst_albums">There is no album of this artist</string>
+    <string name="empty_favorits">There are no tracks added to favorits!</string>
+    <string name="empty_music">To copy music from your computer to your device, use a USB cable.</string>
+    <string name="empty_playlist">This playlist is empty.</string>
+    <string name="empty_recents">There are no tracks listened yet.</string>
+    <string name="empty_search">No search results found</string>
+    <string name="error_add_playlist">could not add to playlist!</string>
+    <string name="error_audioeffects_not_supported">Audioeffects not supported!</string>
+    <string name="error_duplicate_playlistname">Playlist already exists with this name!</string>
+    <string name="error_empty_playlistname">Playlist name empty!</string>
+    <string name="error_permission_denied">App can\'t work with permission to read storage and phone state!</string>
+    <string name="explain_permission_write_settings">This permission is only required to set ringtone</string>
+    <string name="google_search">Google search</string>
+    <string name="hex" translatable="false">#</string>
+    <string name="label_bass_boost">Bass boost</string>
+    <string name="label_enable_equalizer">enable Audio FX</string>
+    <string name="label_reverb">Room size</string>
+    <string name="lastfm_api_key">LastFM API key</string>
+    <string name="menu_add_to_homescreen">Pin to home screen</string>
+    <string name="menu_clear_popular">Clear songs</string>
+    <string name="menu_clear_queue">Clear queue</string>
+    <string name="menu_detailed">Detailed</string>
+    <string name="menu_equalizer">Equalizer</string>
+    <string name="menu_grid">Grid</string>
+    <string name="menu_play_all">Play all</string>
+    <string name="menu_save_queue">Save queue</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_show_hidden">show hidden tracks</string>
+    <string name="menu_shuffle">Shuffle all</string>
+    <string name="menu_simple">Simple</string>
+    <string name="menu_sort_by">Sort by</string>
+    <string name="menu_view_as">View as</string>
+    <string name="new_color">New</string>
+    <string name="new_photo">Choose photo from Gallery</string>
+    <string name="new_playlist">New playlist</string>
+    <string name="new_playlist_name_template">Playlist <ns1:g id="number">%d</ns1:g></string>
+    <string name="no_effects_for_you">The equalizer could not be opened.</string>
+    <string name="old_photo">Use old photo</string>
+    <string name="overwrite">Overwrite</string>
+    <string name="page_albums">Albums</string>
+    <string name="page_artists">Artists</string>
+    <string name="page_folders">Folders</string>
+    <string name="page_genres">Genres</string>
+    <string name="page_playlists">Playlists</string>
+    <string name="page_recent">Recent</string>
+    <string name="page_songs">Songs</string>
+    <string name="pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> pinned to your home screen</string>
+    <string name="playlist_favorite">Favorite</string>
+    <string name="playlist_favorites">Favorites</string>
+    <string name="playlist_last_added">Last added</string>
+    <string name="playlist_most_played">Popular</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="remove_from_popular">Remove from popular</string>
+    <string name="remove_from_queue">Remove from queue</string>
+    <string name="save">Save</string>
+    <string name="set_as_ringtone">\'<ns1:g example="Alarm Bell" id="name">%s</ns1:g>\' set as ringtone</string>
+    <string name="settings_about_apollo">About HuHuMusic</string>
+    <string name="settings_author_title">Author</string>
+    <string name="settings_color_scheme_summary">Changes the accent color in HuHuMusic</string>
+    <string name="settings_color_scheme_title">Choose HuHuMusic\'s default color scheme</string>
+    <string name="settings_cyanogenmod_title" translatable="false">Hội android què</string>
+    <string name="settings_data_category">Data</string>
+    <string name="settings_delete_cache_summary">Remove all cached images</string>
+    <string name="settings_delete_cache_title">Delete cache</string>
+    <string name="settings_disable_bat_opt_summary">Battery optimization may cause playback to stop when running in the background</string>
+    <string name="settings_disable_bat_opt_title">Disable battery optimization</string>
+    <string name="settings_download_artist_images_title">Download missing artist images</string>
+    <string name="settings_download_missing_artwork_title">Download missing album art</string>
+    <string name="settings_download_only_on_wifi_summary">To reduce carrier charges, don\'t download over mobile networks</string>
+    <string name="settings_download_only_on_wifi_title">Download via Wi-Fi only</string>
+    <string name="settings_lopez_summary"/>
+    <string name="settings_lopez_title" translatable="false">Thầy Nguyễn Huy Cường</string>
+    <string name="settings_nuclearfog_title" translatable="false">google</string>
+    <string name="settings_open_source_licenses">Open source licenses</string>
+    <string name="settings_other">Other settings</string>
+    <string name="settings_prefer_external_equalizer">Prefer external equalizer</string>
+    <string name="settings_remastered_title">further developments by</string>
+    <string name="settings_self_title" translatable="false">Nhóm 8 - Squad Bất Ổn</string>
+    <string name="settings_special_thanks">Special thanks</string>
+    <string name="settings_storage_category">Storage</string>
+    <string name="settings_theme_chooser_title">Theme chooser</string>
+    <string name="settings_ui_category">Interface</string>
+    <string name="settings_use_old_notification">Use old notification style</string>
+    <string name="settings_use_old_notification_summary">Enable if notification is not shown correctly</string>
+    <string name="settings_version_title">Version number</string>
+    <string name="share_track_using">Share track using:</string>
+    <string name="sort_order_entry_album">Album</string>
+    <string name="sort_order_entry_artist">Artist</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_date_added">Date added</string>
+    <string name="sort_order_entry_duration">Duration</string>
+    <string name="sort_order_entry_filename">Filename</string>
+    <string name="sort_order_entry_number_of_albums">Number of albums</string>
+    <string name="sort_order_entry_number_of_songs">Number of songs</string>
+    <string name="sort_order_entry_track_list">Track list</string>
+    <string name="sort_order_entry_year">Year</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string name="theme_set"><ns1:g id="name">%s</ns1:g> set as the theme</string>
+    <string name="title_audio_effects">Audio effects</string>
+    <string name="use_default">Use default photo</string>
+    <style name="Apollo.Theme.Dark" parent="Theme.AppCompat.NoActionBar">
+		<item name="colorPrimaryDark">#ff0a0a0a</item>
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+		<item name="colorAccent">@android:color/white</item>
+		<item name="android:colorBackground">@android:color/black</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="android:windowAnimationStyle">@style/TransactionPending</item>
+	</style>
+    <style name="BottomActionBarItem">
+		<item name="android:layout_weight">1</item>
+		<item name="android:layout_width">0dp</item>
+		<item name="android:layout_height">match_parent</item>
+		<item name="android:gravity">center|right</item>
+		<item name="android:paddingLeft">@dimen/bottom_action_bar_item_padding_left</item>
+		<item name="android:paddingRight">@dimen/bottom_action_bar_item_padding_right</item>
+		<item name="android:scaleType">centerInside</item>
+	</style>
+    <style name="BottomActionBarItem.Next" parent="@style/BottomActionBarItem">
+		<item name="android:contentDescription">@string/accessibility_next</item>
+	</style>
+    <style name="BottomActionBarItem.Play" parent="@style/BottomActionBarItem">
+		<item name="android:contentDescription">@string/accessibility_play</item>
+	</style>
+    <style name="BottomActionBarItem.Previous" parent="@style/BottomActionBarItem">
+		<item name="android:contentDescription">@string/accessibility_prev</item>
+	</style>
+    <style name="BottomActionBarItem.Repeat" parent="@style/BottomActionBarItem">
+		<item name="android:contentDescription">@string/accessibility_repeat</item>
+	</style>
+    <style name="BottomActionBarItem.Shuffle" parent="@style/BottomActionBarItem">
+		<item name="android:contentDescription">@string/accessibility_shuffle</item>
+	</style>
+    <style name="BottomActionBarLineOne" parent="@style/BottomActionBarText">
+		<item name="android:textStyle">bold</item>
+	</style>
+    <style name="BottomActionBarLineTwo" parent="@style/BottomActionBarText"/>
+    <style name="BottomActionBarText">
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:ellipsize">end</item>
+		<item name="android:paddingLeft">5dp</item>
+		<item name="android:gravity">top|left|center</item>
+		<item name="android:singleLine">true</item>
+		<item name="textAllCaps">true</item>
+		<item name="android:textSize">@dimen/text_size_extra_micro</item>
+	</style>
+    <style name="NotificationAction">
+		<item name="android:layout_width">@dimen/notification_action_width</item>
+		<item name="android:layout_height">@dimen/notification_action_height</item>
+		<item name="android:gravity">center|right</item>
+		<item name="android:scaleType">fitCenter</item>
+		<item name="android:padding">@dimen/notification_action_padding</item>
+		<item name="android:background">@android:color/transparent</item>
+	</style>
+    <style name="NotificationAction.Collapse" parent="@style/NotificationAction">
+		<item name="android:src">@drawable/btn_notification_collapse</item>
+	</style>
+    <style name="NotificationAction.Next" parent="@style/NotificationAction">
+		<item name="android:src">@drawable/btn_playback_next</item>
+		<item name="android:contentDescription">@string/accessibility_next</item>
+	</style>
+    <style name="NotificationAction.Play" parent="@style/NotificationAction">
+		<item name="android:src">@drawable/btn_playback_play</item>
+		<item name="android:contentDescription">@string/accessibility_play</item>
+	</style>
+    <style name="NotificationAction.Previous" parent="@style/NotificationAction">
+		<item name="android:src">@drawable/btn_playback_previous</item>
+		<item name="android:visibility">gone</item>
+		<item name="android:contentDescription">@string/accessibility_prev</item>
+	</style>
+    <style name="NotificationText">
+		<item name="android:layout_width">match_parent</item>
+		<item name="android:layout_height">wrap_content</item>
+		<item name="android:textColor">@android:color/white</item>
+		<item name="android:ellipsize">end</item>
+		<item name="android:fadingEdge">horizontal</item>
+		<item name="android:singleLine">true</item>
+	</style>
+    <style name="Theme.Transparent" parent="Theme.AppCompat.NoActionBar">
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowBackground">@color/transparent</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<item name="windowNoTitle">true</item>
+		<item name="android:windowIsFloating">true</item>
+		<item name="android:backgroundDimEnabled">false</item>
+	</style>
+    <style name="TransactionPending" parent="@android:style/Animation">
+		<item name="android:activityOpenEnterAnimation">@android:anim/fade_in</item>
+		<item name="android:activityOpenExitAnimation">@android:anim/fade_out</item>
+		<item name="android:activityCloseEnterAnimation">@android:anim/fade_in</item>
+		<item name="android:activityCloseExitAnimation">@android:anim/fade_out</item>
+	</style>
+    <style name="notification_textAppearance" parent="@style/TextAppearance.Compat.Notification"/>
+    <declare-styleable name="CirclePageIndicator">
+		
+		<attr name="centered"/>
+		
+		<attr format="color" name="fillColor"/>
+		
+		<attr format="color" name="pageColor"/>
+		
+		<attr name="android:orientation"/>
+		
+		<attr format="dimension" name="radius"/>
+		
+		<attr format="boolean" name="snap"/>
+		
+		<attr format="color" name="strokeColor"/>
+		
+		<attr name="strokeWidth"/>
+		
+		<attr name="android:background"/>
+	</declare-styleable>
+    <declare-styleable name="LinePageIndicator">
+		
+		<attr name="centered"/>
+		
+		<attr name="unselectedColor"/>
+		
+		<attr name="selectedColor"/>
+		
+		<attr format="dimension" name="lineWidth"/>
+		
+		<attr name="strokeWidth"/>
+		
+		<attr format="dimension" name="gapWidth"/>
+		
+		<attr name="android:background"/>
+	</declare-styleable>
+    <declare-styleable name="TitlePageIndicator">
+		
+		<attr format="dimension" name="clipPadding"/>
+		
+		<attr format="color" name="footerColor"/>
+		
+		<attr format="dimension" name="footerLineHeight"/>
+		
+		<attr name="footerIndicatorStyle">
+			<enum name="none" value="0"/>
+			<enum name="triangle" value="1"/>
+			<enum name="underline" value="2"/>
+		</attr>
+		
+		<attr format="dimension" name="footerIndicatorHeight"/>
+		
+		<attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+		
+		<attr format="dimension" name="footerPadding"/>
+		
+		<attr name="linePosition">
+			<enum name="bottom" value="0"/>
+			<enum name="top" value="1"/>
+		</attr>
+		
+		<attr name="selectedColor"/>
+		
+		<attr format="boolean" name="selectedBold"/>
+		
+		<attr name="android:textColor"/>
+		
+		<attr name="android:textSize"/>
+		
+		<attr format="dimension" name="titlePadding"/>
+		
+		<attr format="dimension" name="topPadding"/>
+		
+		<attr name="android:background"/>
+	</declare-styleable>
+    <declare-styleable name="UnderlinePageIndicator">
+		
+		<attr format="boolean" name="fades"/>
+		
+		<attr format="integer" name="fadeDelay"/>
+		
+		<attr format="integer" name="fadeLength"/>
+		
+		<attr name="selectedColor"/>
+		
+		<attr name="android:background"/>
+	</declare-styleable>
+    <declare-styleable name="ViewPagerIndicator">
+		
+		<attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+		
+		<attr format="reference" name="vpiIconPageIndicatorStyle"/>
+		
+		<attr format="reference" name="vpiLinePageIndicatorStyle"/>
+		
+		<attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+		
+		<attr format="reference" name="vpiTabPageIndicatorStyle"/>
+		
+		<attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+	</declare-styleable>
+</resources>

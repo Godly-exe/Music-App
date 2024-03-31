@@ -1,0 +1,623 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3     Licensed under the Apache License, Version 2.0 (the "License");
+4     you may not use this file except in compliance with the License.
+5     You may obtain a copy of the License at
+6
+7          http://www.apache.org/licenses/LICENSE-2.0
+8
+9     Unless required by applicable law or agreed to in writing, software
+10     distributed under the License is distributed on an "AS IS" BASIS,
+11     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+12     See the License for the specific language governing permissions and
+13     limitations under the License.
+14-->
+15<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+16    package="org.godly.huhumusic.debug"
+17    android:versionCode="30"
+18    android:versionName="1.0d" >
+19
+20    <uses-sdk
+21        android:minSdkVersion="16"
+22        android:targetSdkVersion="34" />
+23
+24    <!-- Used to set the devices's ringtone -->
+25    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+25-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:19:2-106
+25-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:19:19-67
+26    <!-- Used to prevent interrupting of the playback by battery optimization -->
+27    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+27-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:21:2-92
+27-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:21:19-89
+28    <!-- Used for caching, creating new playlists and deleting tracks -->
+29    <uses-permission
+29-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:23:2-105
+30        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+30-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:23:19-75
+31        android:maxSdkVersion="28" />
+31-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:23:76-102
+32    <!-- Used to check for a network connection -->
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+33-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:25:2-76
+33-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:25:19-73
+34    <!-- Used to download images -->
+35    <uses-permission android:name="android.permission.INTERNET" />
+35-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:27:2-64
+35-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:27:19-61
+36    <!-- Allows Apollo to read from External Storage -->
+37    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+37-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:29:2-77
+37-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:29:19-74
+38    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+38-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:30:2-73
+38-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:30:19-70
+39    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+39-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:31:2-72
+39-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:31:19-69
+40    <uses-permission
+40-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:32:2-104
+41        android:name="android.permission.READ_EXTERNAL_STORAGE"
+41-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:32:19-74
+42        android:maxSdkVersion="32" />
+42-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:32:75-101
+43    <!-- Allows Apollo to stay in the foreground -->
+44    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+44-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:34:2-74
+44-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:34:19-71
+45    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+45-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:35:2-89
+45-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:35:19-86
+46    <!-- Used to create launcher shortcuts -->
+47    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+47-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:37:2-85
+47-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:37:19-82
+48    <uses-permission android:name="android.permission.WAKE_LOCK" />
+48-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:38:2-65
+48-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:38:19-62
+49    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+49-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:39:2-74
+49-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:39:19-71
+50    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+50-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:40:2-78
+50-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:40:19-75
+51
+52    <queries>
+52-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:42:2-46:12
+53        <intent>
+53-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:43:3-45:12
+54            <action android:name="com.andrew.apollo.THEMES" />
+54-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:44:4-54
+54-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:44:12-51
+55        </intent>
+56    </queries>
+57
+58    <permission
+58-->[androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+59        android:name="org.godly.huhumusic.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+59-->[androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+60        android:protectionLevel="signature" />
+60-->[androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+61
+62    <uses-permission android:name="org.godly.huhumusic.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+62-->[androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+62-->[androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+63
+64    <application
+65        android:name="org.godly.huhumusic.huhumusicApplication"
+65-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:49:3-58
+66        android:allowBackup="false"
+66-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:50:3-30
+67        android:allowTaskReparenting="true"
+67-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:53:3-38
+68        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+68-->[androidx.core:core:1.9.0] C:\Users\yuhga\.gradle\caches\transforms-3\dd77991c531325d334dcfb6e450720a4\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+69        android:dataExtractionRules="@xml/rules"
+69-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:52:3-43
+70        android:debuggable="true"
+71        android:extractNativeLibs="true"
+72        android:fullBackupContent="false"
+72-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:51:3-36
+73        android:hardwareAccelerated="true"
+73-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:54:3-37
+74        android:icon="@mipmap/ic_launcher"
+74-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:55:3-37
+75        android:label="@string/app_name"
+75-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:56:3-35
+76        android:largeHeap="true"
+76-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:57:3-27
+77        android:requestLegacyExternalStorage="true"
+77-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:58:3-46
+78        android:supportsRtl="true"
+78-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:60:3-29
+79        android:taskAffinity="org.godly.huhumusic.debug.task"
+79-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:59:3-47
+80        android:testOnly="true"
+81        android:theme="@style/Apollo.Theme.Dark" >
+81-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:61:3-43
+82
+83        <!-- provider to share music files -->
+84        <provider
+85            android:name="androidx.core.content.FileProvider"
+85-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:66:4-53
+86            android:authorities="org.godly.huhumusic.debug"
+86-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:69:4-42
+87            android:exported="false"
+87-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:68:4-28
+88            android:grantUriPermissions="true" >
+88-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:67:4-38
+89            <meta-data
+89-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:70:4-72:46
+90                android:name="android.support.FILE_PROVIDER_PATHS"
+90-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:71:5-55
+91                android:resource="@xml/provider_paths" />
+91-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:72:5-43
+92        </provider>
+93
+94        <!-- Searchable -->
+95        <meta-data
+95-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:76:3-78:52
+96            android:name="android.app.default_searchable"
+96-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:77:4-49
+97            android:value=".ui.activities.SearchActivity" />
+97-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:78:4-49
+98
+99        <!-- Base activity -->
+100        <activity
+100-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:81:3-83:30
+101            android:name="org.godly.huhumusic.ui.activities.ActivityBase"
+101-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:82:4-65
+102            android:exported="true" />
+102-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:83:4-27
+103
+104        <!-- Main activity -->
+105        <activity
+105-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:86:3-101:14
+106            android:name="org.godly.huhumusic.ui.activities.HomeActivity"
+106-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:87:4-65
+107            android:configChanges="orientation|keyboardHidden"
+107-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:90:4-54
+108            android:exported="true"
+108-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:89:4-27
+109            android:windowSoftInputMode="adjustPan" >
+109-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:88:4-43
+110            <intent-filter>
+110-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:92:4-99:20
+111                <action android:name="android.intent.action.MAIN" />
+111-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:93:5-57
+111-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:93:13-54
+112                <action android:name="android.intent.action.MUSIC_PLAYER" />
+112-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:94:5-65
+112-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:94:13-62
+113
+114                <category android:name="android.intent.category.LAUNCHER" />
+114-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:96:5-65
+114-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:96:15-62
+115                <category android:name="android.intent.category.APP_MUSIC" />
+115-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:97:5-66
+115-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:97:15-63
+116                <category android:name="android.intent.category.DEFAULT" />
+116-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+116-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+117            </intent-filter>
+118        </activity>
+119
+120        <!-- Now playing -->
+121        <activity
+121-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:104:3-169:14
+122            android:name="org.godly.huhumusic.ui.activities.AudioPlayerActivity"
+122-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:105:4-72
+123            android:clearTaskOnLaunch="true"
+123-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:106:4-36
+124            android:configChanges="orientation|keyboardHidden"
+124-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:110:4-54
+125            android:exported="true"
+125-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:107:4-27
+126            android:launchMode="singleTask"
+126-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:108:4-35
+127            android:windowSoftInputMode="adjustPan" >
+127-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:109:4-43
+128            <intent-filter>
+128-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:112:4-121:20
+129                <action android:name="android.intent.action.VIEW" />
+129-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:5-57
+129-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:13-54
+130
+131                <category android:name="android.intent.category.DEFAULT" />
+131-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+131-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+132
+133                <data android:scheme="content" />
+133-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+133-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:11-35
+134                <data android:mimeType="audio/*" />
+134-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+134-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+135                <data android:mimeType="application/ogg" />
+135-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+135-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+136                <data android:mimeType="application/x-ogg" />
+136-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+136-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+137                <data android:mimeType="application/itunes" />
+137-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+137-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+138            </intent-filter>
+139            <intent-filter>
+139-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:123:4-132:20
+140                <action android:name="android.intent.action.VIEW" />
+140-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:5-57
+140-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:13-54
+141
+142                <category android:name="android.intent.category.DEFAULT" />
+142-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+142-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+143
+144                <data android:scheme="file" />
+144-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+144-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:11-35
+145                <data android:mimeType="audio/*" />
+145-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+145-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+146                <data android:mimeType="application/ogg" />
+146-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+146-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+147                <data android:mimeType="application/x-ogg" />
+147-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+147-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+148                <data android:mimeType="application/itunes" />
+148-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+148-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+149            </intent-filter>
+150            <intent-filter>
+150-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:134:4-145:20
+151                <action android:name="android.intent.action.VIEW" />
+151-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:5-57
+151-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:13-54
+152
+153                <category android:name="android.intent.category.DEFAULT" />
+153-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+153-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+154                <category android:name="android.intent.category.BROWSABLE" />
+154-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:138:5-66
+154-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:138:15-63
+155
+156                <data android:scheme="http" />
+156-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+156-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:11-35
+157                <data android:mimeType="audio/*" />
+157-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+157-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+158                <data android:mimeType="application/ogg" />
+158-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+158-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+159                <data android:mimeType="application/x-ogg" />
+159-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+159-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+160                <data android:mimeType="application/itunes" />
+160-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+160-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+161            </intent-filter>
+162            <intent-filter>
+162-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:147:4-154:20
+163                <action android:name="android.intent.action.VIEW" />
+163-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:5-57
+163-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:113:13-54
+164
+165                <category android:name="android.intent.category.DEFAULT" />
+165-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+165-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+166
+167                <data android:mimeType="vnd.android.cursor.dir/playlist" />
+167-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+167-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+168                <data android:mimeType="vnd.android.cursor.dir/albums" />
+168-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+168-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+169                <data android:mimeType="vnd.android.cursor.dir/artists" />
+169-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+169-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+170            </intent-filter>
+171            <intent-filter>
+171-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:156:4-159:20
+172                <action android:name="org.godly.huhumusic.debug.AUDIO_PLAYER" />
+172-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:157:13-57
+173
+174                <category android:name="android.intent.category.DEFAULT" />
+174-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+174-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+175            </intent-filter>
+176            <intent-filter>
+176-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:161:4-168:20
+177                <action android:name="android.intent.action.PICK" />
+177-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:162:5-57
+177-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:162:13-54
+178
+179                <category android:name="android.intent.category.DEFAULT" />
+179-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+179-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+180                <category android:name="android.intent.category.OPENABLE" />
+180-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:165:5-65
+180-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:165:15-62
+181
+182                <data android:mimeType="vnd.android.cursor.dir/audio" />
+182-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:116:5-38
+182-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:117:11-37
+183            </intent-filter>
+184        </activity>
+185
+186        <!-- Profile phone Activity -->
+187        <activity
+187-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:172:3-175:57
+188            android:name="org.godly.huhumusic.ui.activities.ProfileActivity"
+188-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:173:4-68
+189            android:configChanges="orientation|keyboardHidden"
+189-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:175:4-54
+190            android:excludeFromRecents="true" />
+190-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:174:4-37
+191
+192        <!-- Audio FX Activity -->
+193        <activity
+193-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:178:3-180:40
+194            android:name="org.godly.huhumusic.ui.activities.AudioFxActivity"
+194-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:179:4-68
+195            android:excludeFromRecents="true" />
+195-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:180:4-37
+196
+197        <!-- Shortcut launcher Activity -->
+198        <activity
+198-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:183:3-194:14
+199            android:name="org.godly.huhumusic.ui.activities.ShortcutActivity"
+199-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:184:4-69
+200            android:excludeFromRecents="true"
+200-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:185:4-37
+201            android:exported="true"
+201-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:186:4-27
+202            android:theme="@style/Theme.Transparent" >
+202-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:187:4-44
+203            <intent-filter>
+203-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:189:4-192:20
+204                <action android:name="android.media.action.MEDIA_PLAY_FROM_SEARCH" />
+204-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:190:5-74
+204-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:190:13-71
+205
+206                <category android:name="android.intent.category.DEFAULT" />
+206-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+206-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+207            </intent-filter>
+208        </activity>
+209
+210        <!-- Search interface -->
+211        <activity
+211-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:197:3-212:14
+212            android:name="org.godly.huhumusic.ui.activities.SearchActivity"
+212-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:198:4-67
+213            android:configChanges="orientation|keyboardHidden"
+213-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:200:4-54
+214            android:exported="true" >
+214-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:199:4-27
+215            <intent-filter>
+215-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:202:4-207:20
+216                <action android:name="android.intent.action.SEARCH" />
+216-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:203:5-59
+216-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:203:13-56
+217                <action android:name="android.intent.action.MEDIA_SEARCH" />
+217-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:204:5-65
+217-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:204:13-62
+218
+219                <category android:name="android.intent.category.DEFAULT" />
+219-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:5-64
+219-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:98:15-61
+220            </intent-filter>
+221
+222            <meta-data
+222-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:209:4-211:42
+223                android:name="android.app.searchable"
+223-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:210:5-42
+224                android:resource="@xml/searchable" />
+224-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:211:5-39
+225        </activity>
+226
+227        <!-- Used to set options -->
+228        <activity
+228-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:215:3-218:47
+229            android:name="org.godly.huhumusic.ui.activities.SettingsActivity"
+229-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:216:4-69
+230            android:label="@string/menu_settings"
+230-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:217:4-41
+231            android:theme="@style/Apollo.Theme.Dark" />
+231-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:218:4-44
+232
+233        <!-- Themes Activity -->
+234        <activity
+234-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:221:3-224:57
+235            android:name="org.godly.huhumusic.ui.activities.ThemesActivity"
+235-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:222:4-67
+236            android:configChanges="orientation|keyboardHidden"
+236-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:224:4-54
+237            android:excludeFromRecents="true" />
+237-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:223:4-37
+238
+239        <!-- 4x1 App Widget -->
+240        <receiver
+240-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:227:3-239:14
+241            android:name="org.godly.huhumusic.ui.widgets.AppWidgetSmall"
+241-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:228:4-64
+242            android:exported="false"
+242-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:229:4-28
+243            android:label="@string/app_widget_small" >
+243-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:230:4-44
+244            <intent-filter>
+244-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:232:4-234:20
+245                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+245-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:5-72
+245-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:13-69
+246            </intent-filter>
+247
+248            <meta-data
+248-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:236:4-238:48
+249                android:name="android.appwidget.provider"
+249-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:237:5-46
+250                android:resource="@xml/app_widget_small" />
+250-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:238:5-45
+251        </receiver>
+252
+253        <!-- 4x2  App Widget -->
+254        <receiver
+254-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:242:3-254:14
+255            android:name="org.godly.huhumusic.ui.widgets.AppWidgetLarge"
+255-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:243:4-64
+256            android:exported="false"
+256-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:244:4-28
+257            android:label="@string/app_widget_large" >
+257-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:245:4-44
+258            <intent-filter>
+258-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:232:4-234:20
+259                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+259-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:5-72
+259-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:13-69
+260            </intent-filter>
+261
+262            <meta-data
+262-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:236:4-238:48
+263                android:name="android.appwidget.provider"
+263-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:237:5-46
+264                android:resource="@xml/app_widget_large" />
+264-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:238:5-45
+265        </receiver>
+266
+267        <!-- 4x2 alternate App Widget -->
+268        <receiver
+268-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:257:3-269:14
+269            android:name="org.godly.huhumusic.ui.widgets.AppWidgetLargeAlternate"
+269-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:258:4-73
+270            android:exported="false"
+270-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:259:4-28
+271            android:label="@string/app_widget_large_alt" >
+271-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:260:4-48
+272            <intent-filter>
+272-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:232:4-234:20
+273                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+273-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:5-72
+273-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:13-69
+274            </intent-filter>
+275
+276            <meta-data
+276-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:236:4-238:48
+277                android:name="android.appwidget.provider"
+277-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:237:5-46
+278                android:resource="@xml/app_widget_large_alternate" />
+278-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:238:5-45
+279        </receiver>
+280
+281        <!-- Resizable recently listened App Widget -->
+282        <receiver
+282-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:272:3-284:14
+283            android:name="org.godly.huhumusic.ui.widgets.RecentWidgetProvider"
+283-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:273:4-70
+284            android:exported="false"
+284-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:274:4-28
+285            android:label="@string/app_widget_recent" >
+285-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:275:4-45
+286            <intent-filter>
+286-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:232:4-234:20
+287                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+287-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:5-72
+287-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:233:13-69
+288            </intent-filter>
+289            <!-- This specifies the widget provider info -->
+290            <meta-data
+290-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:236:4-238:48
+291                android:name="android.appwidget.provider"
+291-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:237:5-46
+292                android:resource="@xml/app_widget_recents" />
+292-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:238:5-45
+293        </receiver>
+294        <receiver
+294-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:286:3-294:14
+295            android:name="androidx.media.session.MediaButtonReceiver"
+295-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:287:4-61
+296            android:exported="false" >
+296-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:288:4-28
+297            <intent-filter>
+297-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:290:4-293:20
+298                <action android:name="android.intent.action.MEDIA_BUTTON" />
+298-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:291:5-65
+298-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:291:13-62
+299                <action android:name="android.media.AUDIO_BECOMING_NOISY" />
+299-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:292:5-65
+299-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:292:13-62
+300            </intent-filter>
+301        </receiver>
+302
+303        <!-- The service serving the RemoteViews to the recently listened App Widget -->
+304        <service
+304-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:297:3-299:63
+305            android:name="org.godly.huhumusic.service.RecentWidgetService"
+305-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:298:4-66
+306            android:permission="android.permission.BIND_REMOTEVIEWS" />
+306-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:299:4-60
+307
+308        <!-- Music service -->
+309        <service
+309-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:302:3-314:13
+310            android:name="org.godly.huhumusic.service.MusicPlaybackService"
+310-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:303:4-67
+311            android:exported="false"
+311-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:305:4-28
+312            android:foregroundServiceType="mediaPlayback"
+312-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:307:4-49
+313            android:label="@string/app_name"
+313-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:304:4-36
+314            android:process=":music" >
+314-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:306:4-28
+315            <intent-filter>
+315-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:308:4-310:20
+316                <action android:name="android.intent.action.MEDIA_BUTTON" />
+316-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:291:5-65
+316-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:291:13-62
+317            </intent-filter>
+318            <intent-filter>
+318-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:311:4-313:20
+319                <action android:name="android.media.browse.MediaBrowserService" />
+319-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:312:5-71
+319-->E:\HuHuMusic\app\src\main\AndroidManifest.xml:312:13-68
+320            </intent-filter>
+321        </service>
+322
+323        <uses-library
+323-->[androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+324            android:name="androidx.window.extensions"
+324-->[androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+325            android:required="false" />
+325-->[androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+326        <uses-library
+326-->[androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+327            android:name="androidx.window.sidecar"
+327-->[androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+328            android:required="false" />
+328-->[androidx.window:window:1.0.0] C:\Users\yuhga\.gradle\caches\transforms-3\4a187f6ac0c0fe259c80619fdc5b0932\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+329
+330        <provider
+330-->[androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+331            android:name="androidx.startup.InitializationProvider"
+331-->[androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+332            android:authorities="org.godly.huhumusic.debug.androidx-startup"
+332-->[androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+333            android:exported="false" >
+333-->[androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+334            <meta-data
+334-->[androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+335                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+335-->[androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+336                android:value="androidx.startup" />
+336-->[androidx.emoji2:emoji2:1.2.0] C:\Users\yuhga\.gradle\caches\transforms-3\440481879c97c61c5fb574ce03ac8ace\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+337            <meta-data
+337-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+338                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+338-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+339                android:value="androidx.startup" />
+339-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\yuhga\.gradle\caches\transforms-3\c34b575beb4c9c3292a4e1ffafac6777\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+340        </provider>
+341    </application>
+342
+343</manifest>

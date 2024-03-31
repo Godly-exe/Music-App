@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="NNNtrackstoplaylist">
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> آهنگ به لیست پخش اضافه شد.</item>
+	</plurals>
+    <plurals name="Nalbums">
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> آلبوم</item>
+	</plurals>
+    <plurals name="Nsongs">
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> آهنگ</item>
+	</plurals>
+    <string name="cancel">لغو</string>
+    <string name="context_menu_delete">حذف</string>
+    <string name="context_menu_use_as_ringtone">استفاده به عنوان صدای زنگ</string>
+    <string name="could_not_be_pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> قابل سنجاق شدن به صفحه اصلی شما نیست</string>
+    <string name="menu_add_to_homescreen">سنجاق کردن به صفحه اصلی</string>
+    <string name="menu_save_queue">ذخیره صف</string>
+    <string name="menu_view_as">مشاهده به صورت</string>
+    <string name="page_artists">هنرمندان</string>
+    <string name="page_recent">اخیر</string>
+    <string name="pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> به صفحه اصلی شما سنجاق شد</string>
+    <string name="save">ذخیره</string>
+    <string name="set_as_ringtone">\'<ns1:g example="Alarm Bell" id="name">%s</ns1:g>\' به‌عنوان صدای زنگ تنظیم شد</string>
+    <string name="settings_download_only_on_wifi_title">دریافت فقط از طریق وای‌فای</string>
+    <string name="settings_ui_category">رابط کاربری</string>
+</resources>

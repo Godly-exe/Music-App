@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable_pager_background.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable/pager_background.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_ic_action_pinn_to_home.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/ic_action_pinn_to_home.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_switch_queue.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_switch_queue.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_notification_collapse.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_notification_collapse.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_notification_template_expanded_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/notification_template_expanded_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_play.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_play.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_bg_stripes_dark.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/bg_stripes_dark.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_play.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_play.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_folder.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/folder.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_shuffle_all.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_shuffle_all.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_activity_audiofx.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/activity_audiofx.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_threedots.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/threedots.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_repeat_one.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_repeat_one.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-nodpi_header_temp.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-nodpi/header_temp.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_stop.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_stop.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_bg_stripes_dark.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/bg_stripes_dark.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_previous.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_previous.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_stop.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_stop.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_fragment_music_browser_phone.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/fragment_music_browser_phone.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_rules.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/rules.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_search.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/search.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_repeat_all.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_repeat_all.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_color_scheme_dialog.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/color_scheme_dialog.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-nodpi_app_widget_recents.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-nodpi/app_widget_recents.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxxhdpi_folder.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xxxhdpi/folder.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxxhdpi_threedots.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xxxhdpi/threedots.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_list_item_normal.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/list_item_normal.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_app_widget_small.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/app_widget_small.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_switch_queue.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_switch_queue.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_activity_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/activity_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_notification_template_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/notification_template_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_shuffle.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_shuffle.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_stat_notify_music.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/stat_notify_music.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_app_msg.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/app_msg.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_shuffle.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_shuffle.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-nodpi_app_widget_large.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-nodpi/app_widget_large.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "org.godly.huhumusic.app-pngs-28:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_list_item_equalizer_band.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/list_item_equalizer_band.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_ic_action_search.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_provider_paths.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_list_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/list_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_notification_collapse.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_notification_collapse.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_default_artwork.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/default_artwork.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_bg_stripes_dark.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/bg_stripes_dark.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_repeat.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_repeat.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_searchable.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/searchable.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_fragment_themes_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/fragment_themes_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_previous.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_previous.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable_right_shadow.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable/right_shadow.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_threedots.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/threedots.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "org.godly.huhumusic.app-pngs-28:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_audio_player_informations.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/audio_player_informations.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_repeat_all.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_repeat_all.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_activity_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/activity_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_stat_notify_music.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/stat_notify_music.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_artist_album_sort_by.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/artist_album_sort_by.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_profile_tab.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/profile_tab.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_next.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_next.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable_top_shadow.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable/top_shadow.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_activity_profile_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/activity_profile_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_appwidget_bg.9.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/appwidget_bg.9.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxhdpi_threedots.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xxhdpi/threedots.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable_tpi_background.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable/tpi_background.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_settings_layout.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/settings_layout.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_view_pager_background_texture.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/view_pager_background_texture.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_popular_songs_clear.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/popular_songs_clear.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_activity_player_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/activity_player_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout-land_activity_player_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout-land/activity_player_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.godly.huhumusic.app-pngs-28:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "org.godly.huhumusic.app-pngs-28:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_app_widget_recents_items.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/app_widget_recents_items.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_stat_notify_music.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/stat_notify_music.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-nodpi_app_widget_small.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-nodpi/app_widget_small.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_artist_sort_by.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/artist_sort_by.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_shuffle_all.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_shuffle_all.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_default_artwork.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/default_artwork.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.godly.huhumusic.app-pngs-28:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_folder.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/folder.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_appwidget_bg.9.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/appwidget_bg.9.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_repeat.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_repeat.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_app_widget_large.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/app_widget_large.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_stop.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_stop.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_ic_action_pinn_to_home.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/ic_action_pinn_to_home.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_album_sort_by.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/album_sort_by.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_appwidget_bg.9.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/appwidget_bg.9.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_profile_tab_carousel.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/profile_tab_carousel.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_pause.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_pause.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_previous.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_previous.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_play.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_play.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_song_sort_by.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/song_sort_by.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_grid_base.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/grid_base.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_repeat_one.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_repeat_one.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_app_widget_large_alternate.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/app_widget_large_alternate.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_ic_action_favorite.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_album_song_sort_by.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/album_song_sort_by.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_pause.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_pause.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_next.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_next.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_item_visibility.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/item_visibility.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_grid_search.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/grid_search.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_audio_player_controls.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/audio_player_controls.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_audio_player.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/audio_player.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_app_widget_large_alternate.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/app_widget_large_alternate.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_ic_action_favorite.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_threedots.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/threedots.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-nodpi_app_widget_large_alternate.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-nodpi/app_widget_large_alternate.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_view_pager_background_texture.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/view_pager_background_texture.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_pause.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_pause.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_repeat_all.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_repeat_all.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_btn_playback_shuffle_all.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/btn_playback_shuffle_all.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_add_to_homescreen.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/add_to_homescreen.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_grid_item_normal.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/grid_item_normal.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_shuffle.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/shuffle.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_repeat.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_repeat.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxhdpi_default_artwork.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xxhdpi/default_artwork.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_list_item_detailed.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/list_item_detailed.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_ic_action_pinn_to_home.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/ic_action_pinn_to_home.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_app_widget_small.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/app_widget_small.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_switch_queue.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_switch_queue.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxhdpi_folder.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xxhdpi/folder.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_btn_playback_shuffle.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/btn_playback_shuffle.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_action_bar.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/action_bar.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxhdpi_btn_playback_stop.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xxhdpi/btn_playback_stop.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_artist_song_sort_by.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/artist_song_sort_by.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_view_pager_background_texture.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/view_pager_background_texture.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable_bottom_shadow.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable/bottom_shadow.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_notification_collapse.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_notification_collapse.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_list_item_simple.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/list_item_simple.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_next.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_next.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.godly.huhumusic.app-pngs-28:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_folder.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/folder.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_settings.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/settings.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/xml_app_widget_recents.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/xml/app_widget_recents.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_queue.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/queue.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_app_widget_large.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/app_widget_large.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-mdpi_ic_action_search.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_view_as.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/view_as.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-hdpi_ic_action_favorite.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-hdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_default_artwork.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/default_artwork.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_app_widget_recents.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/app_widget_recents.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/menu_favorite.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/menu/favorite.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-xhdpi_btn_playback_repeat_one.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-xhdpi/btn_playback_repeat_one.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/layout_bottom_action_bar.xml.flat",
+        "source": "org.godly.huhumusic.app-main-34:/layout/bottom_action_bar.xml"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-nodpi_theme_preview.png.flat",
+        "source": "org.godly.huhumusic.app-main-34:/drawable-nodpi/theme_preview.png"
+    },
+    {
+        "merged": "org.godly.huhumusic.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.godly.huhumusic.app-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

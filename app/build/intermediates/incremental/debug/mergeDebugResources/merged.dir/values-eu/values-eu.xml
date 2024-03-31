@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="NNNtracksdeleted">
+		<item quantity="one">Abesti bat ezabatu da.</item>
+		<item quantity="other"><ns1:g id="songs_to_delete">%d</ns1:g> abesti ezabatu dira.</item>
+	</plurals>
+    <plurals name="NNNtracksfromplaylist">
+		<item quantity="one">Abesti bat zerrendatik kendu da.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> abesti kendu dira zerrendatik.</item>
+	</plurals>
+    <plurals name="NNNtrackstoplaylist">
+		<item quantity="one">Abesti <ns1:g example="1" id="number">%d</ns1:g> gehitu da zerrendara.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> abesti gehitu dira zerrendara.</item>
+	</plurals>
+    <plurals name="NNNtrackstoqueue">
+		<item quantity="one">Abesti <ns1:g example="1" id="number">%d</ns1:g> gehitu da ilarara.</item>
+		<item quantity="other"><ns1:g example="27" id="number">%d</ns1:g> abesti gehitu dira ilarara.</item>
+	</plurals>
+    <plurals name="Nalbums">
+		<item quantity="one">Album <ns1:g id="count">%d</ns1:g></item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> album</item>
+	</plurals>
+    <plurals name="Nsongs">
+		<item quantity="one">Abesti 1</item>
+		<item quantity="other"><ns1:g id="count">%d</ns1:g> abesti</item>
+	</plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Joan orri nagusira"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Joan gora"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Aukera gehiago"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Eginda"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ikusi guztiak"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Aukeratu aplikazio bat"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESAKTIBATU"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIBATU"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ktrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ezabatu"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"sartu"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funtzioa +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maius +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"zuriunea"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menua +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Bilatu…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Garbitu kontsulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Bilaketa-kontsulta"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Bilatu"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Bidali kontsulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ahozko bilaketa"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partekatu honekin"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partekatu <ns1:g id="APPLICATION_NAME">%s</ns1:g> aplikazioarekin"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Tolestu"</string>
+    <string name="accessibility_next">Hurrengoa</string>
+    <string name="accessibility_pause">Pausatu</string>
+    <string name="accessibility_play">Erreproduzitu</string>
+    <string name="accessibility_prev">Aurrekoa</string>
+    <string name="accessibility_repeat">Errepikatu</string>
+    <string name="accessibility_repeat_all">Errepikatu guztiak</string>
+    <string name="accessibility_repeat_one">Errepikatu bat</string>
+    <string name="accessibility_shuffle">Nahastu</string>
+    <string name="accessibility_shuffle_all">Nahastu guztiak</string>
+    <string name="add_to_favorites">Gehitu gogokoetara</string>
+    <string name="add_to_playlist">Gehitu erreprodukzio zerrendara</string>
+    <string name="add_to_queue">Gehitu ilarara</string>
+    <string name="app_widget_large_alt">Apollo: 4×2 (txandakatu)</string>
+    <string name="app_widget_recent">Apollo: Berriki entzundakoak</string>
+    <string name="cancel">Utzi</string>
+    <string name="cannot_be_undone">Hau ezin da desegin</string>
+    <string name="color_picker_title">Kolore eskema</string>
+    <string name="context_menu_delete">Ezabatu</string>
+    <string name="context_menu_fetch_album_art">Eskuratu albumaren karatula</string>
+    <string name="context_menu_fetch_artist_image">Eskuratu artistaren argazkia</string>
+    <string name="context_menu_more_by_artist">Artistaren abestiak</string>
+    <string name="context_menu_play_next">Erreproduzitu hurrengoa</string>
+    <string name="context_menu_play_selection">Erreproduzitu</string>
+    <string name="context_menu_remove_from_playlist">Kendu erreprodukzio-zerrendatik</string>
+    <string name="context_menu_remove_from_recent">Kendu azkenetatik</string>
+    <string name="context_menu_rename_playlist">Berrizendatu</string>
+    <string name="context_menu_use_as_ringtone">Erabili dei doinu gisa</string>
+    <string msgid="6083905920877235314" name="copy">"Kopiatu"</string>
+    <string name="could_not_be_pinned_to_home_screen">Ezin izan da <ns1:g id="name">%s</ns1:g> hasiera-pantailara iltzatu</string>
+    <string name="create_playlist_prompt">Erreprodukzio-zerrendaren izena</string>
+    <string name="current_color">Oraingoa</string>
+    <string name="delete_dialog_title"><ns1:g example="album" id="item">%s</ns1:g> ezabatu?</string>
+    <string name="delete_warning">Honek katxean gordetako irudi guztiak ezabatuko ditu</string>
+    <string name="empty_music">Musika ordenagailutik gailura kopiatzeko USB kablea erabili.</string>
+    <string name="empty_search">Ez dago emaitzarik</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Hobespen aurreratuak"</string>
+    <string name="google_search">Google bilaketa</string>
+    <string name="menu_add_to_homescreen">Iltzatu hasiera-pantailara</string>
+    <string name="menu_clear_queue">Garbitu ilara</string>
+    <string name="menu_detailed">Zehaztua</string>
+    <string name="menu_equalizer">Ekualizadorea</string>
+    <string name="menu_grid">Mosaikoa</string>
+    <string name="menu_play_all">Erreproduzitu guztiak</string>
+    <string name="menu_save_queue">Gorde ilara</string>
+    <string name="menu_search">Bilatu</string>
+    <string name="menu_settings">Ezarpenak</string>
+    <string name="menu_share">Partekatu</string>
+    <string name="menu_shuffle">Nahastu guztiak</string>
+    <string name="menu_simple">Sinplea</string>
+    <string name="menu_sort_by">Honela ordenatu</string>
+    <string name="menu_view_as">Ikuspegia</string>
+    <string name="new_color">Berria</string>
+    <string name="new_photo">Hautatu galeriako argazkia</string>
+    <string name="new_playlist">Erreprodukzio-zerrenda berria</string>
+    <string name="new_playlist_name_template"><ns1:g id="number">%d</ns1:g> erreprodukzio-zerrenda</string>
+    <string name="no_effects_for_you">Ezin izan da ekualizadorea ireki.</string>
+    <string msgid="6573031135582639649" name="not_set">"Ez da ezarri"</string>
+    <string name="old_photo">Erabili aurreko irudia</string>
+    <string name="overwrite">Gainidatzi</string>
+    <string name="page_albums">Albumak</string>
+    <string name="page_artists">Artistak</string>
+    <string name="page_genres">Generoak</string>
+    <string name="page_playlists">Erreprodukzio-zerrendak</string>
+    <string name="page_recent">Azkenak</string>
+    <string name="page_songs">Abestiak</string>
+    <string name="pinned_to_home_screen"><ns1:g id="name">%s</ns1:g> hasiera-pantailara iltzatu da</string>
+    <string name="playlist_favorite">Gogokoa</string>
+    <string name="playlist_favorites">Gogokoak</string>
+    <string name="playlist_last_added">Berriki gehituak</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Arbelean kopiatu da \"<ns1:g id="SUMMARY">%1$s</ns1:g>\"."</string>
+    <string name="remove_from_favorites">Kendu gogokoetatik</string>
+    <string name="remove_from_queue">Kendu ilaratik</string>
+    <string name="save">Gorde</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Bilatu"</string>
+    <string name="set_as_ringtone">\'<ns1:g example="Alarm Bell" id="name">%s</ns1:g>\' dei doinu bezala ezarri da</string>
+    <string name="settings_about_apollo">Apollo-ri buruz</string>
+    <string name="settings_author_title">Autorea</string>
+    <string name="settings_color_scheme_summary">Aldatu nabarmentzeko kolorea Apollon</string>
+    <string name="settings_color_scheme_title">Hautatu Apolloren kolore eskema lehenetsia</string>
+    <string name="settings_data_category">Datuak</string>
+    <string name="settings_delete_cache_summary">Ezabatu katxean gordetako irudi guztiak</string>
+    <string name="settings_delete_cache_title">Ezabatu katxea</string>
+    <string name="settings_download_artist_images_title">Deskargatu falta diren artisten argazkiak</string>
+    <string name="settings_download_missing_artwork_title">Deskargatu falta diren karatulak</string>
+    <string name="settings_download_only_on_wifi_summary">Ez deskargatu datu mugikorren bidez operadorearen zordunketa murrizteko</string>
+    <string name="settings_download_only_on_wifi_title">Deskargatu Wi-Fi bidez soilik</string>
+    <string name="settings_lopez_summary">Ikonoa eta Play Store banner diseinua</string>
+    <string name="settings_open_source_licenses">Lizentzia libreak</string>
+    <string name="settings_special_thanks">Eskerrak</string>
+    <string name="settings_storage_category">Biltegiratzea</string>
+    <string name="settings_theme_chooser_title">Gaiak</string>
+    <string name="settings_ui_category">Interfazea</string>
+    <string name="settings_version_title">Bertsioa</string>
+    <string name="share_track_using">Partekatu abestia honen bitartez:</string>
+    <string name="sort_order_entry_album">Albuma</string>
+    <string name="sort_order_entry_artist">Artista</string>
+    <string name="sort_order_entry_az">A-Z</string>
+    <string name="sort_order_entry_date_added">Gehitze data</string>
+    <string name="sort_order_entry_duration">Iraupena</string>
+    <string name="sort_order_entry_filename">Fitxategi izena</string>
+    <string name="sort_order_entry_number_of_albums">Album kopurua</string>
+    <string name="sort_order_entry_number_of_songs">Abesti kopurua</string>
+    <string name="sort_order_entry_track_list">Pista zerrenda</string>
+    <string name="sort_order_entry_year">Urtea</string>
+    <string name="sort_order_entry_za">Z-A</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="theme_set"><ns1:g id="name">%s</ns1:g> gai bezala ezarria</string>
+    <string name="use_default">Erabili argazki lehenetsia</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESAKTIBATUTA"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"AKTIBATUTA"</string>
+</resources>
